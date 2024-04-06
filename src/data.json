@@ -1,0 +1,7004 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "category": "clothing",
+      "region": "West",
+      "sales": 159,
+      "createdAt": "5/9/2023"
+    },
+    {
+      "id": 2,
+      "category": "home decor",
+      "region": "West",
+      "sales": 238,
+      "createdAt": "3/8/2023"
+    },
+    {
+      "id": 3,
+      "category": "books",
+      "region": "North",
+      "sales": 470,
+      "createdAt": "11/21/2022"
+    },
+    {
+      "id": 4,
+      "category": "clothing",
+      "region": "North",
+      "sales": 91,
+      "createdAt": "11/20/2022"
+    },
+    {
+      "id": 5,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 431,
+      "createdAt": "12/11/2022"
+    },
+    {
+      "id": 6,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 57,
+      "createdAt": "6/14/2023"
+    },
+    {
+      "id": 7,
+      "category": "home decor",
+      "region": "West",
+      "sales": 250,
+      "createdAt": "1/19/2021"
+    },
+    {
+      "id": 8,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 292,
+      "createdAt": "1/29/2023"
+    },
+    {
+      "id": 9,
+      "category": "books",
+      "region": "West",
+      "sales": 225,
+      "createdAt": "3/24/2023"
+    },
+    {
+      "id": 10,
+      "category": "clothing",
+      "region": "North",
+      "sales": 268,
+      "createdAt": "2/13/2023"
+    },
+    {
+      "id": 11,
+      "category": "toys",
+      "region": "South",
+      "sales": 481,
+      "createdAt": "1/5/2021"
+    },
+    {
+      "id": 12,
+      "category": "clothing",
+      "region": "East",
+      "sales": 49,
+      "createdAt": "12/25/2022"
+    },
+    {
+      "id": 13,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 202,
+      "createdAt": "12/2/2023"
+    },
+    {
+      "id": 14,
+      "category": "electronics",
+      "region": "North",
+      "sales": 344,
+      "createdAt": "5/27/2021"
+    },
+    {
+      "id": 15,
+      "category": "toys",
+      "region": "West",
+      "sales": 387,
+      "createdAt": "12/31/2022"
+    },
+    {
+      "id": 16,
+      "category": "books",
+      "region": "West",
+      "sales": 293,
+      "createdAt": "1/14/2024"
+    },
+    {
+      "id": 17,
+      "category": "clothing",
+      "region": "West",
+      "sales": 463,
+      "createdAt": "5/20/2022"
+    },
+    {
+      "id": 18,
+      "category": "toys",
+      "region": "North",
+      "sales": 85,
+      "createdAt": "3/1/2024"
+    },
+    {
+      "id": 19,
+      "category": "electronics",
+      "region": "West",
+      "sales": 124,
+      "createdAt": "8/13/2022"
+    },
+    {
+      "id": 20,
+      "category": "toys",
+      "region": "East",
+      "sales": 496,
+      "createdAt": "2/1/2023"
+    },
+    {
+      "id": 21,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 352,
+      "createdAt": "12/24/2023"
+    },
+    {
+      "id": 22,
+      "category": "home decor",
+      "region": "North",
+      "sales": 448,
+      "createdAt": "8/9/2023"
+    },
+    {
+      "id": 23,
+      "category": "clothing",
+      "region": "East",
+      "sales": 212,
+      "createdAt": "7/19/2021"
+    },
+    {
+      "id": 24,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 12,
+      "createdAt": "2/2/2024"
+    },
+    {
+      "id": 25,
+      "category": "toys",
+      "region": "North",
+      "sales": 288,
+      "createdAt": "2/2/2022"
+    },
+    {
+      "id": 26,
+      "category": "clothing",
+      "region": "South",
+      "sales": 313,
+      "createdAt": "10/10/2021"
+    },
+    {
+      "id": 27,
+      "category": "electronics",
+      "region": "South",
+      "sales": 125,
+      "createdAt": "11/21/2023"
+    },
+    {
+      "id": 28,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 77,
+      "createdAt": "8/9/2022"
+    },
+    {
+      "id": 29,
+      "category": "books",
+      "region": "South",
+      "sales": 444,
+      "createdAt": "1/20/2024"
+    },
+    {
+      "id": 30,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 489,
+      "createdAt": "7/31/2023"
+    },
+    {
+      "id": 31,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 339,
+      "createdAt": "2/15/2023"
+    },
+    {
+      "id": 32,
+      "category": "clothing",
+      "region": "North",
+      "sales": 395,
+      "createdAt": "6/20/2023"
+    },
+    {
+      "id": 33,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 391,
+      "createdAt": "3/29/2022"
+    },
+    {
+      "id": 34,
+      "category": "home decor",
+      "region": "North",
+      "sales": 430,
+      "createdAt": "4/5/2023"
+    },
+    {
+      "id": 35,
+      "category": "clothing",
+      "region": "East",
+      "sales": 161,
+      "createdAt": "10/22/2022"
+    },
+    {
+      "id": 36,
+      "category": "clothing",
+      "region": "South",
+      "sales": 426,
+      "createdAt": "10/1/2022"
+    },
+    {
+      "id": 37,
+      "category": "electronics",
+      "region": "West",
+      "sales": 317,
+      "createdAt": "2/18/2023"
+    },
+    {
+      "id": 38,
+      "category": "toys",
+      "region": "East",
+      "sales": 353,
+      "createdAt": "12/6/2023"
+    },
+    {
+      "id": 39,
+      "category": "home decor",
+      "region": "East",
+      "sales": 314,
+      "createdAt": "12/9/2023"
+    },
+    {
+      "id": 40,
+      "category": "home decor",
+      "region": "West",
+      "sales": 301,
+      "createdAt": "10/1/2022"
+    },
+    {
+      "id": 41,
+      "category": "home decor",
+      "region": "South",
+      "sales": 334,
+      "createdAt": "1/10/2021"
+    },
+    {
+      "id": 42,
+      "category": "home decor",
+      "region": "West",
+      "sales": 381,
+      "createdAt": "4/17/2021"
+    },
+    {
+      "id": 43,
+      "category": "toys",
+      "region": "East",
+      "sales": 53,
+      "createdAt": "5/7/2023"
+    },
+    {
+      "id": 44,
+      "category": "toys",
+      "region": "South",
+      "sales": 40,
+      "createdAt": "1/5/2021"
+    },
+    {
+      "id": 45,
+      "category": "books",
+      "region": "North",
+      "sales": 51,
+      "createdAt": "2/19/2022"
+    },
+    {
+      "id": 46,
+      "category": "electronics",
+      "region": "North",
+      "sales": 496,
+      "createdAt": "11/10/2021"
+    },
+    {
+      "id": 47,
+      "category": "clothing",
+      "region": "North",
+      "sales": 82,
+      "createdAt": "6/13/2021"
+    },
+    {
+      "id": 48,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 232,
+      "createdAt": "2/15/2021"
+    },
+    {
+      "id": 49,
+      "category": "home decor",
+      "region": "North",
+      "sales": 351,
+      "createdAt": "9/5/2021"
+    },
+    {
+      "id": 50,
+      "category": "electronics",
+      "region": "East",
+      "sales": 30,
+      "createdAt": "3/23/2024"
+    },
+    {
+      "id": 51,
+      "category": "toys",
+      "region": "East",
+      "sales": 370,
+      "createdAt": "6/30/2023"
+    },
+    {
+      "id": 52,
+      "category": "electronics",
+      "region": "North",
+      "sales": 431,
+      "createdAt": "12/13/2022"
+    },
+    {
+      "id": 53,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 418,
+      "createdAt": "8/9/2022"
+    },
+    {
+      "id": 54,
+      "category": "home decor",
+      "region": "East",
+      "sales": 107,
+      "createdAt": "2/15/2022"
+    },
+    {
+      "id": 55,
+      "category": "clothing",
+      "region": "North",
+      "sales": 69,
+      "createdAt": "9/30/2023"
+    },
+    {
+      "id": 56,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 254,
+      "createdAt": "1/25/2024"
+    },
+    {
+      "id": 57,
+      "category": "home decor",
+      "region": "North",
+      "sales": 263,
+      "createdAt": "1/30/2023"
+    },
+    {
+      "id": 58,
+      "category": "books",
+      "region": "East",
+      "sales": 410,
+      "createdAt": "5/2/2023"
+    },
+    {
+      "id": 59,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 196,
+      "createdAt": "6/28/2022"
+    },
+    {
+      "id": 60,
+      "category": "clothing",
+      "region": "West",
+      "sales": 238,
+      "createdAt": "9/2/2022"
+    },
+    {
+      "id": 61,
+      "category": "books",
+      "region": "West",
+      "sales": 69,
+      "createdAt": "7/19/2023"
+    },
+    {
+      "id": 62,
+      "category": "books",
+      "region": "West",
+      "sales": 38,
+      "createdAt": "11/18/2022"
+    },
+    {
+      "id": 63,
+      "category": "clothing",
+      "region": "North",
+      "sales": 157,
+      "createdAt": "7/3/2023"
+    },
+    {
+      "id": 64,
+      "category": "clothing",
+      "region": "South",
+      "sales": 42,
+      "createdAt": "4/7/2021"
+    },
+    {
+      "id": 65,
+      "category": "electronics",
+      "region": "East",
+      "sales": 52,
+      "createdAt": "2/18/2022"
+    },
+    {
+      "id": 66,
+      "category": "toys",
+      "region": "East",
+      "sales": 454,
+      "createdAt": "5/3/2023"
+    },
+    {
+      "id": 67,
+      "category": "toys",
+      "region": "East",
+      "sales": 48,
+      "createdAt": "7/3/2023"
+    },
+    {
+      "id": 68,
+      "category": "home decor",
+      "region": "North",
+      "sales": 152,
+      "createdAt": "9/10/2022"
+    },
+    {
+      "id": 69,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 168,
+      "createdAt": "12/19/2022"
+    },
+    {
+      "id": 70,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 48,
+      "createdAt": "3/8/2021"
+    },
+    {
+      "id": 71,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 421,
+      "createdAt": "10/23/2021"
+    },
+    {
+      "id": 72,
+      "category": "electronics",
+      "region": "North",
+      "sales": 313,
+      "createdAt": "6/19/2022"
+    },
+    {
+      "id": 73,
+      "category": "clothing",
+      "region": "North",
+      "sales": 287,
+      "createdAt": "10/11/2023"
+    },
+    {
+      "id": 74,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 444,
+      "createdAt": "3/18/2022"
+    },
+    {
+      "id": 75,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 14,
+      "createdAt": "4/12/2021"
+    },
+    {
+      "id": 76,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 429,
+      "createdAt": "1/31/2022"
+    },
+    {
+      "id": 77,
+      "category": "toys",
+      "region": "North",
+      "sales": 111,
+      "createdAt": "12/23/2023"
+    },
+    {
+      "id": 78,
+      "category": "electronics",
+      "region": "South",
+      "sales": 340,
+      "createdAt": "11/28/2021"
+    },
+    {
+      "id": 79,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 17,
+      "createdAt": "4/20/2022"
+    },
+    {
+      "id": 80,
+      "category": "clothing",
+      "region": "South",
+      "sales": 179,
+      "createdAt": "8/18/2021"
+    },
+    {
+      "id": 81,
+      "category": "clothing",
+      "region": "South",
+      "sales": 90,
+      "createdAt": "3/2/2022"
+    },
+    {
+      "id": 82,
+      "category": "electronics",
+      "region": "East",
+      "sales": 166,
+      "createdAt": "7/5/2022"
+    },
+    {
+      "id": 83,
+      "category": "clothing",
+      "region": "West",
+      "sales": 364,
+      "createdAt": "10/23/2022"
+    },
+    {
+      "id": 84,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 8,
+      "createdAt": "3/13/2023"
+    },
+    {
+      "id": 85,
+      "category": "electronics",
+      "region": "North",
+      "sales": 169,
+      "createdAt": "5/13/2021"
+    },
+    {
+      "id": 86,
+      "category": "home decor",
+      "region": "South",
+      "sales": 461,
+      "createdAt": "7/10/2021"
+    },
+    {
+      "id": 87,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 72,
+      "createdAt": "2/9/2021"
+    },
+    {
+      "id": 88,
+      "category": "home decor",
+      "region": "South",
+      "sales": 351,
+      "createdAt": "12/18/2023"
+    },
+    {
+      "id": 89,
+      "category": "clothing",
+      "region": "South",
+      "sales": 293,
+      "createdAt": "6/25/2021"
+    },
+    {
+      "id": 90,
+      "category": "home decor",
+      "region": "South",
+      "sales": 450,
+      "createdAt": "2/8/2024"
+    },
+    {
+      "id": 91,
+      "category": "books",
+      "region": "North",
+      "sales": 149,
+      "createdAt": "1/14/2021"
+    },
+    {
+      "id": 92,
+      "category": "home decor",
+      "region": "West",
+      "sales": 176,
+      "createdAt": "6/30/2021"
+    },
+    {
+      "id": 93,
+      "category": "toys",
+      "region": "North",
+      "sales": 241,
+      "createdAt": "10/11/2021"
+    },
+    {
+      "id": 94,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 53,
+      "createdAt": "1/29/2023"
+    },
+    {
+      "id": 95,
+      "category": "toys",
+      "region": "West",
+      "sales": 381,
+      "createdAt": "3/27/2023"
+    },
+    {
+      "id": 96,
+      "category": "books",
+      "region": "South",
+      "sales": 201,
+      "createdAt": "3/17/2022"
+    },
+    {
+      "id": 97,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 232,
+      "createdAt": "3/15/2024"
+    },
+    {
+      "id": 98,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 290,
+      "createdAt": "9/13/2021"
+    },
+    {
+      "id": 99,
+      "category": "toys",
+      "region": "North",
+      "sales": 328,
+      "createdAt": "2/4/2024"
+    },
+    {
+      "id": 100,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 226,
+      "createdAt": "7/4/2021"
+    },
+    {
+      "id": 101,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 19,
+      "createdAt": "2/24/2024"
+    },
+    {
+      "id": 102,
+      "category": "electronics",
+      "region": "West",
+      "sales": 35,
+      "createdAt": "8/17/2022"
+    },
+    {
+      "id": 103,
+      "category": "home decor",
+      "region": "North",
+      "sales": 359,
+      "createdAt": "6/1/2023"
+    },
+    {
+      "id": 104,
+      "category": "electronics",
+      "region": "South",
+      "sales": 413,
+      "createdAt": "1/23/2021"
+    },
+    {
+      "id": 105,
+      "category": "electronics",
+      "region": "East",
+      "sales": 256,
+      "createdAt": "2/3/2024"
+    },
+    {
+      "id": 106,
+      "category": "electronics",
+      "region": "East",
+      "sales": 395,
+      "createdAt": "10/28/2021"
+    },
+    {
+      "id": 107,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 286,
+      "createdAt": "5/26/2022"
+    },
+    {
+      "id": 108,
+      "category": "books",
+      "region": "North",
+      "sales": 268,
+      "createdAt": "8/15/2021"
+    },
+    {
+      "id": 109,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 389,
+      "createdAt": "7/11/2021"
+    },
+    {
+      "id": 110,
+      "category": "books",
+      "region": "West",
+      "sales": 176,
+      "createdAt": "10/15/2022"
+    },
+    {
+      "id": 111,
+      "category": "home decor",
+      "region": "East",
+      "sales": 158,
+      "createdAt": "3/11/2024"
+    },
+    {
+      "id": 112,
+      "category": "electronics",
+      "region": "North",
+      "sales": 426,
+      "createdAt": "9/7/2023"
+    },
+    {
+      "id": 113,
+      "category": "electronics",
+      "region": "East",
+      "sales": 298,
+      "createdAt": "1/22/2021"
+    },
+    {
+      "id": 114,
+      "category": "electronics",
+      "region": "North",
+      "sales": 119,
+      "createdAt": "4/2/2024"
+    },
+    {
+      "id": 115,
+      "category": "clothing",
+      "region": "East",
+      "sales": 36,
+      "createdAt": "1/27/2024"
+    },
+    {
+      "id": 116,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 123,
+      "createdAt": "5/1/2022"
+    },
+    {
+      "id": 117,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 453,
+      "createdAt": "12/29/2022"
+    },
+    {
+      "id": 118,
+      "category": "home decor",
+      "region": "East",
+      "sales": 51,
+      "createdAt": "5/31/2023"
+    },
+    {
+      "id": 119,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 263,
+      "createdAt": "3/21/2021"
+    },
+    {
+      "id": 120,
+      "category": "home decor",
+      "region": "West",
+      "sales": 7,
+      "createdAt": "6/13/2021"
+    },
+    {
+      "id": 121,
+      "category": "electronics",
+      "region": "North",
+      "sales": 426,
+      "createdAt": "8/15/2023"
+    },
+    {
+      "id": 122,
+      "category": "toys",
+      "region": "West",
+      "sales": 45,
+      "createdAt": "8/3/2023"
+    },
+    {
+      "id": 123,
+      "category": "electronics",
+      "region": "South",
+      "sales": 377,
+      "createdAt": "5/21/2022"
+    },
+    {
+      "id": 124,
+      "category": "home decor",
+      "region": "South",
+      "sales": 29,
+      "createdAt": "3/20/2023"
+    },
+    {
+      "id": 125,
+      "category": "toys",
+      "region": "West",
+      "sales": 395,
+      "createdAt": "4/15/2021"
+    },
+    {
+      "id": 126,
+      "category": "toys",
+      "region": "South",
+      "sales": 152,
+      "createdAt": "3/20/2021"
+    },
+    {
+      "id": 127,
+      "category": "books",
+      "region": "South",
+      "sales": 407,
+      "createdAt": "8/20/2023"
+    },
+    {
+      "id": 128,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 124,
+      "createdAt": "2/16/2024"
+    },
+    {
+      "id": 129,
+      "category": "clothing",
+      "region": "South",
+      "sales": 130,
+      "createdAt": "10/9/2022"
+    },
+    {
+      "id": 130,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 274,
+      "createdAt": "8/30/2021"
+    },
+    {
+      "id": 131,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 383,
+      "createdAt": "2/21/2022"
+    },
+    {
+      "id": 132,
+      "category": "toys",
+      "region": "North",
+      "sales": 175,
+      "createdAt": "9/11/2022"
+    },
+    {
+      "id": 133,
+      "category": "clothing",
+      "region": "West",
+      "sales": 189,
+      "createdAt": "9/2/2023"
+    },
+    {
+      "id": 134,
+      "category": "electronics",
+      "region": "West",
+      "sales": 133,
+      "createdAt": "11/30/2021"
+    },
+    {
+      "id": 135,
+      "category": "home decor",
+      "region": "South",
+      "sales": 324,
+      "createdAt": "2/9/2023"
+    },
+    {
+      "id": 136,
+      "category": "electronics",
+      "region": "North",
+      "sales": 166,
+      "createdAt": "12/30/2023"
+    },
+    {
+      "id": 137,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 452,
+      "createdAt": "3/4/2024"
+    },
+    {
+      "id": 138,
+      "category": "books",
+      "region": "South",
+      "sales": 435,
+      "createdAt": "10/29/2021"
+    },
+    {
+      "id": 139,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 279,
+      "createdAt": "7/23/2023"
+    },
+    {
+      "id": 140,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 429,
+      "createdAt": "6/2/2023"
+    },
+    {
+      "id": 141,
+      "category": "electronics",
+      "region": "South",
+      "sales": 303,
+      "createdAt": "9/2/2021"
+    },
+    {
+      "id": 142,
+      "category": "clothing",
+      "region": "North",
+      "sales": 171,
+      "createdAt": "5/7/2022"
+    },
+    {
+      "id": 143,
+      "category": "clothing",
+      "region": "East",
+      "sales": 462,
+      "createdAt": "3/19/2024"
+    },
+    {
+      "id": 144,
+      "category": "books",
+      "region": "South",
+      "sales": 481,
+      "createdAt": "11/4/2023"
+    },
+    {
+      "id": 145,
+      "category": "electronics",
+      "region": "West",
+      "sales": 194,
+      "createdAt": "12/4/2022"
+    },
+    {
+      "id": 146,
+      "category": "home decor",
+      "region": "West",
+      "sales": 79,
+      "createdAt": "1/2/2023"
+    },
+    {
+      "id": 147,
+      "category": "clothing",
+      "region": "North",
+      "sales": 416,
+      "createdAt": "8/11/2022"
+    },
+    {
+      "id": 148,
+      "category": "clothing",
+      "region": "East",
+      "sales": 298,
+      "createdAt": "2/17/2021"
+    },
+    {
+      "id": 149,
+      "category": "electronics",
+      "region": "North",
+      "sales": 303,
+      "createdAt": "5/6/2021"
+    },
+    {
+      "id": 150,
+      "category": "clothing",
+      "region": "West",
+      "sales": 306,
+      "createdAt": "2/15/2024"
+    },
+    {
+      "id": 151,
+      "category": "clothing",
+      "region": "West",
+      "sales": 336,
+      "createdAt": "7/10/2022"
+    },
+    {
+      "id": 152,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 155,
+      "createdAt": "9/14/2023"
+    },
+    {
+      "id": 153,
+      "category": "electronics",
+      "region": "West",
+      "sales": 177,
+      "createdAt": "9/20/2021"
+    },
+    {
+      "id": 154,
+      "category": "clothing",
+      "region": "West",
+      "sales": 450,
+      "createdAt": "12/14/2023"
+    },
+    {
+      "id": 155,
+      "category": "clothing",
+      "region": "East",
+      "sales": 86,
+      "createdAt": "9/3/2023"
+    },
+    {
+      "id": 156,
+      "category": "toys",
+      "region": "North",
+      "sales": 463,
+      "createdAt": "9/22/2021"
+    },
+    {
+      "id": 157,
+      "category": "electronics",
+      "region": "West",
+      "sales": 265,
+      "createdAt": "11/3/2021"
+    },
+    {
+      "id": 158,
+      "category": "clothing",
+      "region": "East",
+      "sales": 171,
+      "createdAt": "4/13/2022"
+    },
+    {
+      "id": 159,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 246,
+      "createdAt": "5/2/2021"
+    },
+    {
+      "id": 160,
+      "category": "home decor",
+      "region": "North",
+      "sales": 83,
+      "createdAt": "10/9/2023"
+    },
+    {
+      "id": 161,
+      "category": "clothing",
+      "region": "South",
+      "sales": 492,
+      "createdAt": "8/15/2022"
+    },
+    {
+      "id": 162,
+      "category": "home decor",
+      "region": "East",
+      "sales": 171,
+      "createdAt": "8/30/2022"
+    },
+    {
+      "id": 163,
+      "category": "clothing",
+      "region": "West",
+      "sales": 72,
+      "createdAt": "4/24/2021"
+    },
+    {
+      "id": 164,
+      "category": "clothing",
+      "region": "North",
+      "sales": 297,
+      "createdAt": "6/5/2022"
+    },
+    {
+      "id": 165,
+      "category": "clothing",
+      "region": "South",
+      "sales": 205,
+      "createdAt": "10/11/2022"
+    },
+    {
+      "id": 166,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 447,
+      "createdAt": "6/18/2021"
+    },
+    {
+      "id": 167,
+      "category": "home decor",
+      "region": "East",
+      "sales": 317,
+      "createdAt": "6/6/2023"
+    },
+    {
+      "id": 168,
+      "category": "toys",
+      "region": "West",
+      "sales": 443,
+      "createdAt": "3/10/2022"
+    },
+    {
+      "id": 169,
+      "category": "clothing",
+      "region": "North",
+      "sales": 383,
+      "createdAt": "9/15/2021"
+    },
+    {
+      "id": 170,
+      "category": "toys",
+      "region": "South",
+      "sales": 49,
+      "createdAt": "4/19/2022"
+    },
+    {
+      "id": 171,
+      "category": "clothing",
+      "region": "South",
+      "sales": 176,
+      "createdAt": "1/15/2023"
+    },
+    {
+      "id": 172,
+      "category": "books",
+      "region": "East",
+      "sales": 214,
+      "createdAt": "12/30/2021"
+    },
+    {
+      "id": 173,
+      "category": "clothing",
+      "region": "South",
+      "sales": 216,
+      "createdAt": "1/12/2022"
+    },
+    {
+      "id": 174,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 96,
+      "createdAt": "4/3/2023"
+    },
+    {
+      "id": 175,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 82,
+      "createdAt": "2/6/2021"
+    },
+    {
+      "id": 176,
+      "category": "toys",
+      "region": "West",
+      "sales": 106,
+      "createdAt": "11/16/2022"
+    },
+    {
+      "id": 177,
+      "category": "books",
+      "region": "North",
+      "sales": 153,
+      "createdAt": "4/28/2022"
+    },
+    {
+      "id": 178,
+      "category": "clothing",
+      "region": "West",
+      "sales": 278,
+      "createdAt": "8/12/2021"
+    },
+    {
+      "id": 179,
+      "category": "toys",
+      "region": "East",
+      "sales": 257,
+      "createdAt": "6/4/2023"
+    },
+    {
+      "id": 180,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 118,
+      "createdAt": "12/9/2021"
+    },
+    {
+      "id": 181,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 312,
+      "createdAt": "1/19/2022"
+    },
+    {
+      "id": 182,
+      "category": "clothing",
+      "region": "East",
+      "sales": 106,
+      "createdAt": "1/14/2023"
+    },
+    {
+      "id": 183,
+      "category": "books",
+      "region": "East",
+      "sales": 167,
+      "createdAt": "9/15/2023"
+    },
+    {
+      "id": 184,
+      "category": "books",
+      "region": "North",
+      "sales": 332,
+      "createdAt": "7/1/2021"
+    },
+    {
+      "id": 185,
+      "category": "books",
+      "region": "South",
+      "sales": 110,
+      "createdAt": "5/13/2023"
+    },
+    {
+      "id": 186,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 484,
+      "createdAt": "8/25/2021"
+    },
+    {
+      "id": 187,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 182,
+      "createdAt": "6/19/2021"
+    },
+    {
+      "id": 188,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 285,
+      "createdAt": "9/24/2023"
+    },
+    {
+      "id": 189,
+      "category": "clothing",
+      "region": "North",
+      "sales": 205,
+      "createdAt": "2/9/2021"
+    },
+    {
+      "id": 190,
+      "category": "clothing",
+      "region": "East",
+      "sales": 265,
+      "createdAt": "1/9/2022"
+    },
+    {
+      "id": 191,
+      "category": "toys",
+      "region": "South",
+      "sales": 216,
+      "createdAt": "5/4/2023"
+    },
+    {
+      "id": 192,
+      "category": "books",
+      "region": "South",
+      "sales": 482,
+      "createdAt": "2/13/2021"
+    },
+    {
+      "id": 193,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 300,
+      "createdAt": "9/20/2021"
+    },
+    {
+      "id": 194,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 413,
+      "createdAt": "6/24/2023"
+    },
+    {
+      "id": 195,
+      "category": "clothing",
+      "region": "East",
+      "sales": 276,
+      "createdAt": "4/2/2021"
+    },
+    {
+      "id": 196,
+      "category": "clothing",
+      "region": "South",
+      "sales": 127,
+      "createdAt": "3/31/2023"
+    },
+    {
+      "id": 197,
+      "category": "home decor",
+      "region": "South",
+      "sales": 271,
+      "createdAt": "7/26/2021"
+    },
+    {
+      "id": 198,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 252,
+      "createdAt": "12/4/2022"
+    },
+    {
+      "id": 199,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 149,
+      "createdAt": "11/13/2022"
+    },
+    {
+      "id": 200,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 243,
+      "createdAt": "2/26/2022"
+    },
+    {
+      "id": 201,
+      "category": "toys",
+      "region": "East",
+      "sales": 266,
+      "createdAt": "10/17/2021"
+    },
+    {
+      "id": 202,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 122,
+      "createdAt": "8/18/2023"
+    },
+    {
+      "id": 203,
+      "category": "home decor",
+      "region": "East",
+      "sales": 281,
+      "createdAt": "2/22/2022"
+    },
+    {
+      "id": 204,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 234,
+      "createdAt": "12/3/2021"
+    },
+    {
+      "id": 205,
+      "category": "home decor",
+      "region": "North",
+      "sales": 334,
+      "createdAt": "12/9/2022"
+    },
+    {
+      "id": 206,
+      "category": "home decor",
+      "region": "East",
+      "sales": 191,
+      "createdAt": "1/4/2021"
+    },
+    {
+      "id": 207,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 134,
+      "createdAt": "11/18/2021"
+    },
+    {
+      "id": 208,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 435,
+      "createdAt": "7/13/2023"
+    },
+    {
+      "id": 209,
+      "category": "home decor",
+      "region": "East",
+      "sales": 403,
+      "createdAt": "1/11/2022"
+    },
+    {
+      "id": 210,
+      "category": "electronics",
+      "region": "West",
+      "sales": 127,
+      "createdAt": "12/6/2022"
+    },
+    {
+      "id": 211,
+      "category": "home decor",
+      "region": "West",
+      "sales": 399,
+      "createdAt": "3/21/2023"
+    },
+    {
+      "id": 212,
+      "category": "toys",
+      "region": "North",
+      "sales": 214,
+      "createdAt": "5/2/2023"
+    },
+    {
+      "id": 213,
+      "category": "toys",
+      "region": "South",
+      "sales": 419,
+      "createdAt": "1/10/2023"
+    },
+    {
+      "id": 214,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 210,
+      "createdAt": "2/27/2021"
+    },
+    {
+      "id": 215,
+      "category": "clothing",
+      "region": "East",
+      "sales": 349,
+      "createdAt": "1/20/2024"
+    },
+    {
+      "id": 216,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 400,
+      "createdAt": "6/2/2021"
+    },
+    {
+      "id": 217,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 228,
+      "createdAt": "1/22/2022"
+    },
+    {
+      "id": 218,
+      "category": "toys",
+      "region": "North",
+      "sales": 16,
+      "createdAt": "1/9/2024"
+    },
+    {
+      "id": 219,
+      "category": "home decor",
+      "region": "South",
+      "sales": 386,
+      "createdAt": "6/24/2023"
+    },
+    {
+      "id": 220,
+      "category": "books",
+      "region": "North",
+      "sales": 217,
+      "createdAt": "12/6/2021"
+    },
+    {
+      "id": 221,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 472,
+      "createdAt": "4/12/2021"
+    },
+    {
+      "id": 222,
+      "category": "home decor",
+      "region": "East",
+      "sales": 311,
+      "createdAt": "8/15/2021"
+    },
+    {
+      "id": 223,
+      "category": "books",
+      "region": "West",
+      "sales": 109,
+      "createdAt": "8/30/2022"
+    },
+    {
+      "id": 224,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 221,
+      "createdAt": "12/2/2022"
+    },
+    {
+      "id": 225,
+      "category": "toys",
+      "region": "East",
+      "sales": 442,
+      "createdAt": "3/1/2021"
+    },
+    {
+      "id": 226,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 169,
+      "createdAt": "5/12/2023"
+    },
+    {
+      "id": 227,
+      "category": "books",
+      "region": "South",
+      "sales": 493,
+      "createdAt": "11/16/2022"
+    },
+    {
+      "id": 228,
+      "category": "toys",
+      "region": "North",
+      "sales": 486,
+      "createdAt": "6/22/2021"
+    },
+    {
+      "id": 229,
+      "category": "books",
+      "region": "South",
+      "sales": 452,
+      "createdAt": "9/12/2021"
+    },
+    {
+      "id": 230,
+      "category": "electronics",
+      "region": "East",
+      "sales": 425,
+      "createdAt": "8/31/2021"
+    },
+    {
+      "id": 231,
+      "category": "clothing",
+      "region": "West",
+      "sales": 353,
+      "createdAt": "5/7/2023"
+    },
+    {
+      "id": 232,
+      "category": "toys",
+      "region": "East",
+      "sales": 353,
+      "createdAt": "2/25/2023"
+    },
+    {
+      "id": 233,
+      "category": "toys",
+      "region": "South",
+      "sales": 476,
+      "createdAt": "2/28/2023"
+    },
+    {
+      "id": 234,
+      "category": "clothing",
+      "region": "West",
+      "sales": 359,
+      "createdAt": "1/9/2023"
+    },
+    {
+      "id": 235,
+      "category": "books",
+      "region": "West",
+      "sales": 114,
+      "createdAt": "1/17/2024"
+    },
+    {
+      "id": 236,
+      "category": "home decor",
+      "region": "East",
+      "sales": 424,
+      "createdAt": "5/22/2022"
+    },
+    {
+      "id": 237,
+      "category": "home decor",
+      "region": "East",
+      "sales": 452,
+      "createdAt": "8/30/2021"
+    },
+    {
+      "id": 238,
+      "category": "toys",
+      "region": "East",
+      "sales": 362,
+      "createdAt": "1/12/2021"
+    },
+    {
+      "id": 239,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 27,
+      "createdAt": "8/3/2021"
+    },
+    {
+      "id": 240,
+      "category": "books",
+      "region": "North",
+      "sales": 64,
+      "createdAt": "12/31/2021"
+    },
+    {
+      "id": 241,
+      "category": "books",
+      "region": "West",
+      "sales": 464,
+      "createdAt": "5/16/2022"
+    },
+    {
+      "id": 242,
+      "category": "electronics",
+      "region": "East",
+      "sales": 18,
+      "createdAt": "11/20/2022"
+    },
+    {
+      "id": 243,
+      "category": "electronics",
+      "region": "East",
+      "sales": 203,
+      "createdAt": "8/27/2023"
+    },
+    {
+      "id": 244,
+      "category": "toys",
+      "region": "North",
+      "sales": 375,
+      "createdAt": "1/9/2023"
+    },
+    {
+      "id": 245,
+      "category": "books",
+      "region": "South",
+      "sales": 29,
+      "createdAt": "7/25/2021"
+    },
+    {
+      "id": 246,
+      "category": "toys",
+      "region": "East",
+      "sales": 81,
+      "createdAt": "9/14/2022"
+    },
+    {
+      "id": 247,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 328,
+      "createdAt": "2/20/2024"
+    },
+    {
+      "id": 248,
+      "category": "books",
+      "region": "East",
+      "sales": 425,
+      "createdAt": "11/17/2021"
+    },
+    {
+      "id": 249,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 16,
+      "createdAt": "12/6/2023"
+    },
+    {
+      "id": 250,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 400,
+      "createdAt": "5/16/2022"
+    },
+    {
+      "id": 251,
+      "category": "clothing",
+      "region": "West",
+      "sales": 281,
+      "createdAt": "9/9/2022"
+    },
+    {
+      "id": 252,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 492,
+      "createdAt": "12/23/2023"
+    },
+    {
+      "id": 253,
+      "category": "electronics",
+      "region": "East",
+      "sales": 476,
+      "createdAt": "4/18/2022"
+    },
+    {
+      "id": 254,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 27,
+      "createdAt": "4/13/2021"
+    },
+    {
+      "id": 255,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 203,
+      "createdAt": "4/3/2023"
+    },
+    {
+      "id": 256,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 82,
+      "createdAt": "2/11/2024"
+    },
+    {
+      "id": 257,
+      "category": "books",
+      "region": "South",
+      "sales": 79,
+      "createdAt": "12/8/2023"
+    },
+    {
+      "id": 258,
+      "category": "clothing",
+      "region": "West",
+      "sales": 193,
+      "createdAt": "8/19/2022"
+    },
+    {
+      "id": 259,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 198,
+      "createdAt": "12/20/2021"
+    },
+    {
+      "id": 260,
+      "category": "electronics",
+      "region": "South",
+      "sales": 368,
+      "createdAt": "8/27/2023"
+    },
+    {
+      "id": 261,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 33,
+      "createdAt": "6/10/2021"
+    },
+    {
+      "id": 262,
+      "category": "books",
+      "region": "North",
+      "sales": 478,
+      "createdAt": "4/3/2021"
+    },
+    {
+      "id": 263,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 372,
+      "createdAt": "8/31/2022"
+    },
+    {
+      "id": 264,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 168,
+      "createdAt": "7/21/2021"
+    },
+    {
+      "id": 265,
+      "category": "books",
+      "region": "North",
+      "sales": 287,
+      "createdAt": "2/13/2022"
+    },
+    {
+      "id": 266,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 462,
+      "createdAt": "4/15/2021"
+    },
+    {
+      "id": 267,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 67,
+      "createdAt": "5/20/2021"
+    },
+    {
+      "id": 268,
+      "category": "clothing",
+      "region": "South",
+      "sales": 479,
+      "createdAt": "1/26/2024"
+    },
+    {
+      "id": 269,
+      "category": "clothing",
+      "region": "East",
+      "sales": 91,
+      "createdAt": "12/20/2022"
+    },
+    {
+      "id": 270,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 255,
+      "createdAt": "2/9/2024"
+    },
+    {
+      "id": 271,
+      "category": "electronics",
+      "region": "North",
+      "sales": 74,
+      "createdAt": "7/31/2022"
+    },
+    {
+      "id": 272,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 190,
+      "createdAt": "12/10/2022"
+    },
+    {
+      "id": 273,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 289,
+      "createdAt": "10/22/2021"
+    },
+    {
+      "id": 274,
+      "category": "toys",
+      "region": "West",
+      "sales": 47,
+      "createdAt": "7/31/2021"
+    },
+    {
+      "id": 275,
+      "category": "home decor",
+      "region": "North",
+      "sales": 185,
+      "createdAt": "2/26/2021"
+    },
+    {
+      "id": 276,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 431,
+      "createdAt": "6/5/2023"
+    },
+    {
+      "id": 277,
+      "category": "clothing",
+      "region": "East",
+      "sales": 47,
+      "createdAt": "7/8/2021"
+    },
+    {
+      "id": 278,
+      "category": "books",
+      "region": "East",
+      "sales": 467,
+      "createdAt": "7/21/2022"
+    },
+    {
+      "id": 279,
+      "category": "electronics",
+      "region": "East",
+      "sales": 449,
+      "createdAt": "3/27/2024"
+    },
+    {
+      "id": 280,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 356,
+      "createdAt": "5/25/2021"
+    },
+    {
+      "id": 281,
+      "category": "home decor",
+      "region": "West",
+      "sales": 413,
+      "createdAt": "3/11/2023"
+    },
+    {
+      "id": 282,
+      "category": "electronics",
+      "region": "North",
+      "sales": 2,
+      "createdAt": "9/25/2023"
+    },
+    {
+      "id": 283,
+      "category": "books",
+      "region": "North",
+      "sales": 393,
+      "createdAt": "1/1/2022"
+    },
+    {
+      "id": 284,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 267,
+      "createdAt": "8/5/2023"
+    },
+    {
+      "id": 285,
+      "category": "home decor",
+      "region": "West",
+      "sales": 9,
+      "createdAt": "3/15/2021"
+    },
+    {
+      "id": 286,
+      "category": "electronics",
+      "region": "West",
+      "sales": 284,
+      "createdAt": "4/17/2021"
+    },
+    {
+      "id": 287,
+      "category": "clothing",
+      "region": "East",
+      "sales": 254,
+      "createdAt": "11/16/2023"
+    },
+    {
+      "id": 288,
+      "category": "home decor",
+      "region": "South",
+      "sales": 58,
+      "createdAt": "2/2/2022"
+    },
+    {
+      "id": 289,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 376,
+      "createdAt": "6/17/2022"
+    },
+    {
+      "id": 290,
+      "category": "electronics",
+      "region": "East",
+      "sales": 297,
+      "createdAt": "7/18/2021"
+    },
+    {
+      "id": 291,
+      "category": "toys",
+      "region": "West",
+      "sales": 478,
+      "createdAt": "4/17/2022"
+    },
+    {
+      "id": 292,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 150,
+      "createdAt": "2/3/2022"
+    },
+    {
+      "id": 293,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 444,
+      "createdAt": "4/17/2023"
+    },
+    {
+      "id": 294,
+      "category": "books",
+      "region": "South",
+      "sales": 240,
+      "createdAt": "9/26/2023"
+    },
+    {
+      "id": 295,
+      "category": "home decor",
+      "region": "East",
+      "sales": 303,
+      "createdAt": "2/2/2024"
+    },
+    {
+      "id": 296,
+      "category": "electronics",
+      "region": "West",
+      "sales": 500,
+      "createdAt": "6/28/2021"
+    },
+    {
+      "id": 297,
+      "category": "home decor",
+      "region": "East",
+      "sales": 70,
+      "createdAt": "11/11/2021"
+    },
+    {
+      "id": 298,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 262,
+      "createdAt": "12/12/2023"
+    },
+    {
+      "id": 299,
+      "category": "toys",
+      "region": "West",
+      "sales": 131,
+      "createdAt": "7/15/2023"
+    },
+    {
+      "id": 300,
+      "category": "books",
+      "region": "East",
+      "sales": 230,
+      "createdAt": "6/3/2021"
+    },
+    {
+      "id": 301,
+      "category": "clothing",
+      "region": "South",
+      "sales": 4,
+      "createdAt": "9/28/2023"
+    },
+    {
+      "id": 302,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 98,
+      "createdAt": "11/27/2021"
+    },
+    {
+      "id": 303,
+      "category": "home decor",
+      "region": "South",
+      "sales": 100,
+      "createdAt": "10/13/2023"
+    },
+    {
+      "id": 304,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 299,
+      "createdAt": "3/23/2024"
+    },
+    {
+      "id": 305,
+      "category": "clothing",
+      "region": "North",
+      "sales": 480,
+      "createdAt": "1/4/2024"
+    },
+    {
+      "id": 306,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 409,
+      "createdAt": "1/31/2022"
+    },
+    {
+      "id": 307,
+      "category": "electronics",
+      "region": "North",
+      "sales": 446,
+      "createdAt": "3/24/2024"
+    },
+    {
+      "id": 308,
+      "category": "books",
+      "region": "East",
+      "sales": 68,
+      "createdAt": "6/17/2022"
+    },
+    {
+      "id": 309,
+      "category": "home decor",
+      "region": "East",
+      "sales": 8,
+      "createdAt": "1/6/2024"
+    },
+    {
+      "id": 310,
+      "category": "toys",
+      "region": "West",
+      "sales": 301,
+      "createdAt": "11/28/2022"
+    },
+    {
+      "id": 311,
+      "category": "books",
+      "region": "East",
+      "sales": 402,
+      "createdAt": "3/10/2023"
+    },
+    {
+      "id": 312,
+      "category": "toys",
+      "region": "West",
+      "sales": 248,
+      "createdAt": "5/8/2022"
+    },
+    {
+      "id": 313,
+      "category": "toys",
+      "region": "South",
+      "sales": 421,
+      "createdAt": "12/17/2021"
+    },
+    {
+      "id": 314,
+      "category": "toys",
+      "region": "West",
+      "sales": 256,
+      "createdAt": "2/3/2021"
+    },
+    {
+      "id": 315,
+      "category": "home decor",
+      "region": "East",
+      "sales": 221,
+      "createdAt": "1/22/2022"
+    },
+    {
+      "id": 316,
+      "category": "clothing",
+      "region": "West",
+      "sales": 151,
+      "createdAt": "12/5/2021"
+    },
+    {
+      "id": 317,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 129,
+      "createdAt": "9/13/2021"
+    },
+    {
+      "id": 318,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 218,
+      "createdAt": "1/25/2023"
+    },
+    {
+      "id": 319,
+      "category": "toys",
+      "region": "West",
+      "sales": 418,
+      "createdAt": "10/11/2021"
+    },
+    {
+      "id": 320,
+      "category": "books",
+      "region": "South",
+      "sales": 421,
+      "createdAt": "9/2/2021"
+    },
+    {
+      "id": 321,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 464,
+      "createdAt": "12/12/2021"
+    },
+    {
+      "id": 322,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 335,
+      "createdAt": "9/23/2022"
+    },
+    {
+      "id": 323,
+      "category": "electronics",
+      "region": "West",
+      "sales": 285,
+      "createdAt": "7/9/2021"
+    },
+    {
+      "id": 324,
+      "category": "books",
+      "region": "North",
+      "sales": 365,
+      "createdAt": "3/28/2021"
+    },
+    {
+      "id": 325,
+      "category": "toys",
+      "region": "East",
+      "sales": 134,
+      "createdAt": "10/18/2023"
+    },
+    {
+      "id": 326,
+      "category": "home decor",
+      "region": "East",
+      "sales": 399,
+      "createdAt": "5/15/2021"
+    },
+    {
+      "id": 327,
+      "category": "toys",
+      "region": "North",
+      "sales": 182,
+      "createdAt": "2/22/2022"
+    },
+    {
+      "id": 328,
+      "category": "toys",
+      "region": "North",
+      "sales": 326,
+      "createdAt": "9/13/2023"
+    },
+    {
+      "id": 329,
+      "category": "electronics",
+      "region": "East",
+      "sales": 449,
+      "createdAt": "12/29/2021"
+    },
+    {
+      "id": 330,
+      "category": "toys",
+      "region": "West",
+      "sales": 418,
+      "createdAt": "1/22/2022"
+    },
+    {
+      "id": 331,
+      "category": "toys",
+      "region": "West",
+      "sales": 6,
+      "createdAt": "4/18/2021"
+    },
+    {
+      "id": 332,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 225,
+      "createdAt": "2/19/2021"
+    },
+    {
+      "id": 333,
+      "category": "books",
+      "region": "South",
+      "sales": 478,
+      "createdAt": "12/19/2021"
+    },
+    {
+      "id": 334,
+      "category": "home decor",
+      "region": "West",
+      "sales": 61,
+      "createdAt": "5/23/2023"
+    },
+    {
+      "id": 335,
+      "category": "clothing",
+      "region": "West",
+      "sales": 293,
+      "createdAt": "2/19/2022"
+    },
+    {
+      "id": 336,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 361,
+      "createdAt": "12/24/2022"
+    },
+    {
+      "id": 337,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 88,
+      "createdAt": "7/3/2022"
+    },
+    {
+      "id": 338,
+      "category": "clothing",
+      "region": "East",
+      "sales": 495,
+      "createdAt": "8/26/2023"
+    },
+    {
+      "id": 339,
+      "category": "home decor",
+      "region": "South",
+      "sales": 431,
+      "createdAt": "3/6/2023"
+    },
+    {
+      "id": 340,
+      "category": "books",
+      "region": "South",
+      "sales": 371,
+      "createdAt": "8/23/2023"
+    },
+    {
+      "id": 341,
+      "category": "clothing",
+      "region": "East",
+      "sales": 202,
+      "createdAt": "12/23/2023"
+    },
+    {
+      "id": 342,
+      "category": "electronics",
+      "region": "South",
+      "sales": 99,
+      "createdAt": "2/18/2023"
+    },
+    {
+      "id": 343,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 348,
+      "createdAt": "1/20/2021"
+    },
+    {
+      "id": 344,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 469,
+      "createdAt": "10/10/2022"
+    },
+    {
+      "id": 345,
+      "category": "electronics",
+      "region": "South",
+      "sales": 495,
+      "createdAt": "1/5/2024"
+    },
+    {
+      "id": 346,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 78,
+      "createdAt": "6/15/2021"
+    },
+    {
+      "id": 347,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 336,
+      "createdAt": "1/2/2022"
+    },
+    {
+      "id": 348,
+      "category": "books",
+      "region": "South",
+      "sales": 268,
+      "createdAt": "11/26/2021"
+    },
+    {
+      "id": 349,
+      "category": "toys",
+      "region": "North",
+      "sales": 59,
+      "createdAt": "1/1/2023"
+    },
+    {
+      "id": 350,
+      "category": "home decor",
+      "region": "West",
+      "sales": 478,
+      "createdAt": "12/6/2022"
+    },
+    {
+      "id": 351,
+      "category": "clothing",
+      "region": "North",
+      "sales": 153,
+      "createdAt": "10/14/2021"
+    },
+    {
+      "id": 352,
+      "category": "electronics",
+      "region": "West",
+      "sales": 435,
+      "createdAt": "6/28/2022"
+    },
+    {
+      "id": 353,
+      "category": "books",
+      "region": "North",
+      "sales": 289,
+      "createdAt": "2/13/2021"
+    },
+    {
+      "id": 354,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 489,
+      "createdAt": "11/18/2023"
+    },
+    {
+      "id": 355,
+      "category": "home decor",
+      "region": "West",
+      "sales": 81,
+      "createdAt": "8/14/2023"
+    },
+    {
+      "id": 356,
+      "category": "electronics",
+      "region": "East",
+      "sales": 235,
+      "createdAt": "2/22/2024"
+    },
+    {
+      "id": 357,
+      "category": "toys",
+      "region": "North",
+      "sales": 424,
+      "createdAt": "3/9/2022"
+    },
+    {
+      "id": 358,
+      "category": "toys",
+      "region": "South",
+      "sales": 263,
+      "createdAt": "10/4/2021"
+    },
+    {
+      "id": 359,
+      "category": "clothing",
+      "region": "East",
+      "sales": 153,
+      "createdAt": "7/2/2021"
+    },
+    {
+      "id": 360,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 0,
+      "createdAt": "1/29/2023"
+    },
+    {
+      "id": 361,
+      "category": "books",
+      "region": "East",
+      "sales": 354,
+      "createdAt": "8/21/2022"
+    },
+    {
+      "id": 362,
+      "category": "clothing",
+      "region": "East",
+      "sales": 319,
+      "createdAt": "4/20/2023"
+    },
+    {
+      "id": 363,
+      "category": "electronics",
+      "region": "South",
+      "sales": 296,
+      "createdAt": "1/5/2023"
+    },
+    {
+      "id": 364,
+      "category": "electronics",
+      "region": "East",
+      "sales": 395,
+      "createdAt": "1/6/2021"
+    },
+    {
+      "id": 365,
+      "category": "home decor",
+      "region": "West",
+      "sales": 105,
+      "createdAt": "5/22/2022"
+    },
+    {
+      "id": 366,
+      "category": "books",
+      "region": "North",
+      "sales": 488,
+      "createdAt": "6/7/2023"
+    },
+    {
+      "id": 367,
+      "category": "toys",
+      "region": "West",
+      "sales": 97,
+      "createdAt": "4/13/2021"
+    },
+    {
+      "id": 368,
+      "category": "books",
+      "region": "East",
+      "sales": 436,
+      "createdAt": "7/16/2023"
+    },
+    {
+      "id": 369,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 267,
+      "createdAt": "2/24/2021"
+    },
+    {
+      "id": 370,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 394,
+      "createdAt": "12/16/2021"
+    },
+    {
+      "id": 371,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 373,
+      "createdAt": "6/7/2022"
+    },
+    {
+      "id": 372,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 257,
+      "createdAt": "6/16/2021"
+    },
+    {
+      "id": 373,
+      "category": "books",
+      "region": "East",
+      "sales": 423,
+      "createdAt": "4/20/2021"
+    },
+    {
+      "id": 374,
+      "category": "home decor",
+      "region": "South",
+      "sales": 92,
+      "createdAt": "3/21/2022"
+    },
+    {
+      "id": 375,
+      "category": "electronics",
+      "region": "West",
+      "sales": 39,
+      "createdAt": "9/18/2022"
+    },
+    {
+      "id": 376,
+      "category": "toys",
+      "region": "North",
+      "sales": 368,
+      "createdAt": "5/29/2021"
+    },
+    {
+      "id": 377,
+      "category": "electronics",
+      "region": "West",
+      "sales": 143,
+      "createdAt": "3/26/2023"
+    },
+    {
+      "id": 378,
+      "category": "toys",
+      "region": "South",
+      "sales": 455,
+      "createdAt": "7/10/2021"
+    },
+    {
+      "id": 379,
+      "category": "books",
+      "region": "West",
+      "sales": 395,
+      "createdAt": "2/26/2024"
+    },
+    {
+      "id": 380,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 85,
+      "createdAt": "7/28/2022"
+    },
+    {
+      "id": 381,
+      "category": "books",
+      "region": "West",
+      "sales": 355,
+      "createdAt": "3/12/2024"
+    },
+    {
+      "id": 382,
+      "category": "clothing",
+      "region": "West",
+      "sales": 223,
+      "createdAt": "12/3/2022"
+    },
+    {
+      "id": 383,
+      "category": "home decor",
+      "region": "South",
+      "sales": 80,
+      "createdAt": "10/30/2022"
+    },
+    {
+      "id": 384,
+      "category": "toys",
+      "region": "West",
+      "sales": 441,
+      "createdAt": "2/12/2024"
+    },
+    {
+      "id": 385,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 425,
+      "createdAt": "10/22/2023"
+    },
+    {
+      "id": 386,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 334,
+      "createdAt": "5/30/2021"
+    },
+    {
+      "id": 387,
+      "category": "clothing",
+      "region": "South",
+      "sales": 463,
+      "createdAt": "2/9/2022"
+    },
+    {
+      "id": 388,
+      "category": "toys",
+      "region": "North",
+      "sales": 336,
+      "createdAt": "2/24/2021"
+    },
+    {
+      "id": 389,
+      "category": "toys",
+      "region": "North",
+      "sales": 263,
+      "createdAt": "10/6/2022"
+    },
+    {
+      "id": 390,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 447,
+      "createdAt": "4/16/2021"
+    },
+    {
+      "id": 391,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 437,
+      "createdAt": "5/12/2022"
+    },
+    {
+      "id": 392,
+      "category": "books",
+      "region": "West",
+      "sales": 150,
+      "createdAt": "12/25/2023"
+    },
+    {
+      "id": 393,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 204,
+      "createdAt": "3/14/2024"
+    },
+    {
+      "id": 394,
+      "category": "clothing",
+      "region": "East",
+      "sales": 324,
+      "createdAt": "4/11/2021"
+    },
+    {
+      "id": 395,
+      "category": "home decor",
+      "region": "East",
+      "sales": 72,
+      "createdAt": "6/28/2023"
+    },
+    {
+      "id": 396,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 362,
+      "createdAt": "4/25/2022"
+    },
+    {
+      "id": 397,
+      "category": "electronics",
+      "region": "East",
+      "sales": 116,
+      "createdAt": "2/5/2021"
+    },
+    {
+      "id": 398,
+      "category": "toys",
+      "region": "South",
+      "sales": 438,
+      "createdAt": "2/10/2022"
+    },
+    {
+      "id": 399,
+      "category": "electronics",
+      "region": "South",
+      "sales": 237,
+      "createdAt": "8/20/2021"
+    },
+    {
+      "id": 400,
+      "category": "toys",
+      "region": "South",
+      "sales": 467,
+      "createdAt": "1/20/2024"
+    },
+    {
+      "id": 401,
+      "category": "clothing",
+      "region": "East",
+      "sales": 86,
+      "createdAt": "8/19/2021"
+    },
+    {
+      "id": 402,
+      "category": "home decor",
+      "region": "East",
+      "sales": 306,
+      "createdAt": "11/23/2023"
+    },
+    {
+      "id": 403,
+      "category": "electronics",
+      "region": "East",
+      "sales": 63,
+      "createdAt": "2/25/2023"
+    },
+    {
+      "id": 404,
+      "category": "clothing",
+      "region": "East",
+      "sales": 170,
+      "createdAt": "12/12/2021"
+    },
+    {
+      "id": 405,
+      "category": "home decor",
+      "region": "South",
+      "sales": 109,
+      "createdAt": "3/20/2023"
+    },
+    {
+      "id": 406,
+      "category": "clothing",
+      "region": "West",
+      "sales": 346,
+      "createdAt": "6/21/2022"
+    },
+    {
+      "id": 407,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 388,
+      "createdAt": "11/12/2021"
+    },
+    {
+      "id": 408,
+      "category": "toys",
+      "region": "West",
+      "sales": 88,
+      "createdAt": "11/9/2022"
+    },
+    {
+      "id": 409,
+      "category": "toys",
+      "region": "North",
+      "sales": 440,
+      "createdAt": "6/18/2021"
+    },
+    {
+      "id": 410,
+      "category": "books",
+      "region": "North",
+      "sales": 198,
+      "createdAt": "1/16/2022"
+    },
+    {
+      "id": 411,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 465,
+      "createdAt": "8/28/2023"
+    },
+    {
+      "id": 412,
+      "category": "books",
+      "region": "North",
+      "sales": 196,
+      "createdAt": "9/24/2023"
+    },
+    {
+      "id": 413,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 241,
+      "createdAt": "6/29/2021"
+    },
+    {
+      "id": 414,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 479,
+      "createdAt": "3/7/2022"
+    },
+    {
+      "id": 415,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 374,
+      "createdAt": "1/16/2021"
+    },
+    {
+      "id": 416,
+      "category": "home decor",
+      "region": "North",
+      "sales": 395,
+      "createdAt": "4/12/2021"
+    },
+    {
+      "id": 417,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 46,
+      "createdAt": "9/10/2022"
+    },
+    {
+      "id": 418,
+      "category": "toys",
+      "region": "South",
+      "sales": 292,
+      "createdAt": "1/4/2022"
+    },
+    {
+      "id": 419,
+      "category": "electronics",
+      "region": "East",
+      "sales": 116,
+      "createdAt": "9/13/2023"
+    },
+    {
+      "id": 420,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 177,
+      "createdAt": "12/19/2023"
+    },
+    {
+      "id": 421,
+      "category": "books",
+      "region": "West",
+      "sales": 120,
+      "createdAt": "3/25/2023"
+    },
+    {
+      "id": 422,
+      "category": "electronics",
+      "region": "South",
+      "sales": 437,
+      "createdAt": "1/10/2021"
+    },
+    {
+      "id": 423,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 338,
+      "createdAt": "5/11/2021"
+    },
+    {
+      "id": 424,
+      "category": "clothing",
+      "region": "West",
+      "sales": 157,
+      "createdAt": "3/15/2023"
+    },
+    {
+      "id": 425,
+      "category": "clothing",
+      "region": "North",
+      "sales": 232,
+      "createdAt": "8/27/2022"
+    },
+    {
+      "id": 426,
+      "category": "clothing",
+      "region": "East",
+      "sales": 102,
+      "createdAt": "3/27/2023"
+    },
+    {
+      "id": 427,
+      "category": "home decor",
+      "region": "South",
+      "sales": 408,
+      "createdAt": "6/8/2022"
+    },
+    {
+      "id": 428,
+      "category": "clothing",
+      "region": "North",
+      "sales": 82,
+      "createdAt": "3/7/2022"
+    },
+    {
+      "id": 429,
+      "category": "clothing",
+      "region": "East",
+      "sales": 276,
+      "createdAt": "3/26/2021"
+    },
+    {
+      "id": 430,
+      "category": "toys",
+      "region": "West",
+      "sales": 265,
+      "createdAt": "7/20/2023"
+    },
+    {
+      "id": 431,
+      "category": "electronics",
+      "region": "East",
+      "sales": 69,
+      "createdAt": "8/14/2023"
+    },
+    {
+      "id": 432,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 231,
+      "createdAt": "8/10/2021"
+    },
+    {
+      "id": 433,
+      "category": "home decor",
+      "region": "North",
+      "sales": 303,
+      "createdAt": "5/4/2021"
+    },
+    {
+      "id": 434,
+      "category": "home decor",
+      "region": "North",
+      "sales": 365,
+      "createdAt": "2/25/2023"
+    },
+    {
+      "id": 435,
+      "category": "books",
+      "region": "West",
+      "sales": 89,
+      "createdAt": "7/19/2021"
+    },
+    {
+      "id": 436,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 7,
+      "createdAt": "8/1/2021"
+    },
+    {
+      "id": 437,
+      "category": "clothing",
+      "region": "South",
+      "sales": 259,
+      "createdAt": "12/9/2021"
+    },
+    {
+      "id": 438,
+      "category": "books",
+      "region": "North",
+      "sales": 169,
+      "createdAt": "6/24/2022"
+    },
+    {
+      "id": 439,
+      "category": "books",
+      "region": "South",
+      "sales": 395,
+      "createdAt": "3/4/2024"
+    },
+    {
+      "id": 440,
+      "category": "books",
+      "region": "North",
+      "sales": 366,
+      "createdAt": "7/24/2023"
+    },
+    {
+      "id": 441,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 53,
+      "createdAt": "2/2/2023"
+    },
+    {
+      "id": 442,
+      "category": "clothing",
+      "region": "South",
+      "sales": 247,
+      "createdAt": "8/21/2022"
+    },
+    {
+      "id": 443,
+      "category": "electronics",
+      "region": "North",
+      "sales": 225,
+      "createdAt": "8/19/2022"
+    },
+    {
+      "id": 444,
+      "category": "toys",
+      "region": "South",
+      "sales": 31,
+      "createdAt": "3/9/2022"
+    },
+    {
+      "id": 445,
+      "category": "toys",
+      "region": "South",
+      "sales": 369,
+      "createdAt": "8/2/2023"
+    },
+    {
+      "id": 446,
+      "category": "electronics",
+      "region": "West",
+      "sales": 283,
+      "createdAt": "11/22/2022"
+    },
+    {
+      "id": 447,
+      "category": "clothing",
+      "region": "North",
+      "sales": 404,
+      "createdAt": "2/21/2022"
+    },
+    {
+      "id": 448,
+      "category": "home decor",
+      "region": "South",
+      "sales": 274,
+      "createdAt": "7/9/2021"
+    },
+    {
+      "id": 449,
+      "category": "clothing",
+      "region": "North",
+      "sales": 152,
+      "createdAt": "12/9/2021"
+    },
+    {
+      "id": 450,
+      "category": "electronics",
+      "region": "West",
+      "sales": 189,
+      "createdAt": "1/16/2021"
+    },
+    {
+      "id": 451,
+      "category": "electronics",
+      "region": "North",
+      "sales": 329,
+      "createdAt": "5/29/2023"
+    },
+    {
+      "id": 452,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 116,
+      "createdAt": "11/20/2021"
+    },
+    {
+      "id": 453,
+      "category": "toys",
+      "region": "West",
+      "sales": 398,
+      "createdAt": "7/7/2023"
+    },
+    {
+      "id": 454,
+      "category": "home decor",
+      "region": "East",
+      "sales": 483,
+      "createdAt": "5/3/2022"
+    },
+    {
+      "id": 455,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 422,
+      "createdAt": "6/25/2021"
+    },
+    {
+      "id": 456,
+      "category": "home decor",
+      "region": "East",
+      "sales": 475,
+      "createdAt": "6/26/2022"
+    },
+    {
+      "id": 457,
+      "category": "electronics",
+      "region": "North",
+      "sales": 337,
+      "createdAt": "11/9/2022"
+    },
+    {
+      "id": 458,
+      "category": "home decor",
+      "region": "West",
+      "sales": 12,
+      "createdAt": "1/16/2021"
+    },
+    {
+      "id": 459,
+      "category": "electronics",
+      "region": "West",
+      "sales": 457,
+      "createdAt": "3/5/2023"
+    },
+    {
+      "id": 460,
+      "category": "toys",
+      "region": "North",
+      "sales": 267,
+      "createdAt": "2/3/2021"
+    },
+    {
+      "id": 461,
+      "category": "home decor",
+      "region": "East",
+      "sales": 76,
+      "createdAt": "1/22/2024"
+    },
+    {
+      "id": 462,
+      "category": "home decor",
+      "region": "North",
+      "sales": 306,
+      "createdAt": "2/6/2024"
+    },
+    {
+      "id": 463,
+      "category": "books",
+      "region": "West",
+      "sales": 217,
+      "createdAt": "11/11/2021"
+    },
+    {
+      "id": 464,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 43,
+      "createdAt": "9/8/2022"
+    },
+    {
+      "id": 465,
+      "category": "clothing",
+      "region": "West",
+      "sales": 140,
+      "createdAt": "1/11/2024"
+    },
+    {
+      "id": 466,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 65,
+      "createdAt": "1/10/2022"
+    },
+    {
+      "id": 467,
+      "category": "clothing",
+      "region": "East",
+      "sales": 489,
+      "createdAt": "11/20/2021"
+    },
+    {
+      "id": 468,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 192,
+      "createdAt": "12/3/2022"
+    },
+    {
+      "id": 469,
+      "category": "electronics",
+      "region": "East",
+      "sales": 70,
+      "createdAt": "10/16/2021"
+    },
+    {
+      "id": 470,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 13,
+      "createdAt": "2/21/2021"
+    },
+    {
+      "id": 471,
+      "category": "electronics",
+      "region": "West",
+      "sales": 342,
+      "createdAt": "3/17/2024"
+    },
+    {
+      "id": 472,
+      "category": "home decor",
+      "region": "North",
+      "sales": 203,
+      "createdAt": "4/23/2021"
+    },
+    {
+      "id": 473,
+      "category": "books",
+      "region": "North",
+      "sales": 235,
+      "createdAt": "4/6/2022"
+    },
+    {
+      "id": 474,
+      "category": "toys",
+      "region": "North",
+      "sales": 410,
+      "createdAt": "2/5/2021"
+    },
+    {
+      "id": 475,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 187,
+      "createdAt": "8/18/2023"
+    },
+    {
+      "id": 476,
+      "category": "toys",
+      "region": "East",
+      "sales": 159,
+      "createdAt": "10/27/2023"
+    },
+    {
+      "id": 477,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 44,
+      "createdAt": "10/23/2022"
+    },
+    {
+      "id": 478,
+      "category": "electronics",
+      "region": "West",
+      "sales": 265,
+      "createdAt": "10/3/2022"
+    },
+    {
+      "id": 479,
+      "category": "books",
+      "region": "West",
+      "sales": 220,
+      "createdAt": "4/5/2021"
+    },
+    {
+      "id": 480,
+      "category": "clothing",
+      "region": "North",
+      "sales": 237,
+      "createdAt": "7/25/2021"
+    },
+    {
+      "id": 481,
+      "category": "clothing",
+      "region": "West",
+      "sales": 401,
+      "createdAt": "7/19/2021"
+    },
+    {
+      "id": 482,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 322,
+      "createdAt": "12/5/2021"
+    },
+    {
+      "id": 483,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 486,
+      "createdAt": "4/1/2023"
+    },
+    {
+      "id": 484,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 160,
+      "createdAt": "10/20/2022"
+    },
+    {
+      "id": 485,
+      "category": "electronics",
+      "region": "West",
+      "sales": 35,
+      "createdAt": "1/4/2022"
+    },
+    {
+      "id": 486,
+      "category": "clothing",
+      "region": "East",
+      "sales": 88,
+      "createdAt": "2/5/2024"
+    },
+    {
+      "id": 487,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 210,
+      "createdAt": "5/20/2023"
+    },
+    {
+      "id": 488,
+      "category": "toys",
+      "region": "South",
+      "sales": 37,
+      "createdAt": "3/2/2024"
+    },
+    {
+      "id": 489,
+      "category": "electronics",
+      "region": "North",
+      "sales": 384,
+      "createdAt": "11/13/2021"
+    },
+    {
+      "id": 490,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 434,
+      "createdAt": "2/3/2023"
+    },
+    {
+      "id": 491,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 249,
+      "createdAt": "12/14/2022"
+    },
+    {
+      "id": 492,
+      "category": "electronics",
+      "region": "West",
+      "sales": 408,
+      "createdAt": "8/30/2021"
+    },
+    {
+      "id": 493,
+      "category": "electronics",
+      "region": "North",
+      "sales": 487,
+      "createdAt": "5/27/2022"
+    },
+    {
+      "id": 494,
+      "category": "electronics",
+      "region": "West",
+      "sales": 393,
+      "createdAt": "12/6/2023"
+    },
+    {
+      "id": 495,
+      "category": "electronics",
+      "region": "West",
+      "sales": 30,
+      "createdAt": "11/25/2022"
+    },
+    {
+      "id": 496,
+      "category": "clothing",
+      "region": "North",
+      "sales": 260,
+      "createdAt": "4/4/2022"
+    },
+    {
+      "id": 497,
+      "category": "home decor",
+      "region": "South",
+      "sales": 300,
+      "createdAt": "2/3/2023"
+    },
+    {
+      "id": 498,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 331,
+      "createdAt": "5/12/2021"
+    },
+    {
+      "id": 499,
+      "category": "toys",
+      "region": "North",
+      "sales": 83,
+      "createdAt": "9/1/2021"
+    },
+    {
+      "id": 500,
+      "category": "books",
+      "region": "West",
+      "sales": 181,
+      "createdAt": "3/7/2024"
+    },
+    {
+      "id": 501,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 227,
+      "createdAt": "6/9/2023"
+    },
+    {
+      "id": 502,
+      "category": "clothing",
+      "region": "North",
+      "sales": 347,
+      "createdAt": "10/28/2022"
+    },
+    {
+      "id": 503,
+      "category": "toys",
+      "region": "West",
+      "sales": 52,
+      "createdAt": "12/16/2021"
+    },
+    {
+      "id": 504,
+      "category": "electronics",
+      "region": "West",
+      "sales": 489,
+      "createdAt": "4/16/2022"
+    },
+    {
+      "id": 505,
+      "category": "books",
+      "region": "West",
+      "sales": 232,
+      "createdAt": "2/28/2021"
+    },
+    {
+      "id": 506,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 303,
+      "createdAt": "12/23/2023"
+    },
+    {
+      "id": 507,
+      "category": "home decor",
+      "region": "East",
+      "sales": 136,
+      "createdAt": "11/27/2022"
+    },
+    {
+      "id": 508,
+      "category": "electronics",
+      "region": "South",
+      "sales": 475,
+      "createdAt": "6/24/2023"
+    },
+    {
+      "id": 509,
+      "category": "clothing",
+      "region": "West",
+      "sales": 291,
+      "createdAt": "11/2/2022"
+    },
+    {
+      "id": 510,
+      "category": "toys",
+      "region": "East",
+      "sales": 300,
+      "createdAt": "6/30/2023"
+    },
+    {
+      "id": 511,
+      "category": "home decor",
+      "region": "East",
+      "sales": 381,
+      "createdAt": "6/7/2021"
+    },
+    {
+      "id": 512,
+      "category": "electronics",
+      "region": "East",
+      "sales": 273,
+      "createdAt": "2/16/2023"
+    },
+    {
+      "id": 513,
+      "category": "toys",
+      "region": "South",
+      "sales": 131,
+      "createdAt": "10/17/2021"
+    },
+    {
+      "id": 514,
+      "category": "clothing",
+      "region": "East",
+      "sales": 190,
+      "createdAt": "10/4/2022"
+    },
+    {
+      "id": 515,
+      "category": "home decor",
+      "region": "North",
+      "sales": 459,
+      "createdAt": "8/4/2022"
+    },
+    {
+      "id": 516,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 102,
+      "createdAt": "7/1/2023"
+    },
+    {
+      "id": 517,
+      "category": "clothing",
+      "region": "West",
+      "sales": 419,
+      "createdAt": "9/13/2023"
+    },
+    {
+      "id": 518,
+      "category": "toys",
+      "region": "West",
+      "sales": 75,
+      "createdAt": "2/23/2023"
+    },
+    {
+      "id": 519,
+      "category": "books",
+      "region": "East",
+      "sales": 431,
+      "createdAt": "10/30/2021"
+    },
+    {
+      "id": 520,
+      "category": "books",
+      "region": "South",
+      "sales": 40,
+      "createdAt": "11/23/2022"
+    },
+    {
+      "id": 521,
+      "category": "home decor",
+      "region": "South",
+      "sales": 192,
+      "createdAt": "3/7/2021"
+    },
+    {
+      "id": 522,
+      "category": "books",
+      "region": "South",
+      "sales": 157,
+      "createdAt": "1/13/2022"
+    },
+    {
+      "id": 523,
+      "category": "books",
+      "region": "East",
+      "sales": 454,
+      "createdAt": "3/7/2022"
+    },
+    {
+      "id": 524,
+      "category": "clothing",
+      "region": "West",
+      "sales": 21,
+      "createdAt": "4/3/2024"
+    },
+    {
+      "id": 525,
+      "category": "books",
+      "region": "South",
+      "sales": 74,
+      "createdAt": "12/26/2021"
+    },
+    {
+      "id": 526,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 236,
+      "createdAt": "7/14/2021"
+    },
+    {
+      "id": 527,
+      "category": "home decor",
+      "region": "East",
+      "sales": 460,
+      "createdAt": "9/2/2022"
+    },
+    {
+      "id": 528,
+      "category": "electronics",
+      "region": "South",
+      "sales": 488,
+      "createdAt": "7/11/2021"
+    },
+    {
+      "id": 529,
+      "category": "home decor",
+      "region": "North",
+      "sales": 65,
+      "createdAt": "11/29/2023"
+    },
+    {
+      "id": 530,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 423,
+      "createdAt": "5/5/2023"
+    },
+    {
+      "id": 531,
+      "category": "electronics",
+      "region": "East",
+      "sales": 169,
+      "createdAt": "10/5/2021"
+    },
+    {
+      "id": 532,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 22,
+      "createdAt": "3/3/2023"
+    },
+    {
+      "id": 533,
+      "category": "clothing",
+      "region": "East",
+      "sales": 333,
+      "createdAt": "1/10/2023"
+    },
+    {
+      "id": 534,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 500,
+      "createdAt": "6/3/2021"
+    },
+    {
+      "id": 535,
+      "category": "toys",
+      "region": "South",
+      "sales": 215,
+      "createdAt": "8/27/2023"
+    },
+    {
+      "id": 536,
+      "category": "home decor",
+      "region": "South",
+      "sales": 302,
+      "createdAt": "12/17/2022"
+    },
+    {
+      "id": 537,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 240,
+      "createdAt": "8/15/2021"
+    },
+    {
+      "id": 538,
+      "category": "electronics",
+      "region": "North",
+      "sales": 190,
+      "createdAt": "10/18/2023"
+    },
+    {
+      "id": 539,
+      "category": "clothing",
+      "region": "West",
+      "sales": 286,
+      "createdAt": "10/8/2022"
+    },
+    {
+      "id": 540,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 12,
+      "createdAt": "5/3/2022"
+    },
+    {
+      "id": 541,
+      "category": "books",
+      "region": "West",
+      "sales": 421,
+      "createdAt": "3/23/2024"
+    },
+    {
+      "id": 542,
+      "category": "electronics",
+      "region": "West",
+      "sales": 190,
+      "createdAt": "8/28/2021"
+    },
+    {
+      "id": 543,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 433,
+      "createdAt": "12/3/2022"
+    },
+    {
+      "id": 544,
+      "category": "books",
+      "region": "South",
+      "sales": 321,
+      "createdAt": "11/28/2021"
+    },
+    {
+      "id": 545,
+      "category": "books",
+      "region": "East",
+      "sales": 186,
+      "createdAt": "3/6/2022"
+    },
+    {
+      "id": 546,
+      "category": "books",
+      "region": "East",
+      "sales": 425,
+      "createdAt": "11/24/2023"
+    },
+    {
+      "id": 547,
+      "category": "electronics",
+      "region": "North",
+      "sales": 254,
+      "createdAt": "5/17/2022"
+    },
+    {
+      "id": 548,
+      "category": "home decor",
+      "region": "South",
+      "sales": 361,
+      "createdAt": "11/10/2022"
+    },
+    {
+      "id": 549,
+      "category": "clothing",
+      "region": "North",
+      "sales": 295,
+      "createdAt": "2/11/2023"
+    },
+    {
+      "id": 550,
+      "category": "electronics",
+      "region": "West",
+      "sales": 216,
+      "createdAt": "8/26/2021"
+    },
+    {
+      "id": 551,
+      "category": "books",
+      "region": "North",
+      "sales": 385,
+      "createdAt": "6/15/2022"
+    },
+    {
+      "id": 552,
+      "category": "clothing",
+      "region": "North",
+      "sales": 449,
+      "createdAt": "7/15/2022"
+    },
+    {
+      "id": 553,
+      "category": "books",
+      "region": "North",
+      "sales": 81,
+      "createdAt": "9/9/2022"
+    },
+    {
+      "id": 554,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 306,
+      "createdAt": "1/27/2022"
+    },
+    {
+      "id": 555,
+      "category": "electronics",
+      "region": "North",
+      "sales": 400,
+      "createdAt": "9/2/2022"
+    },
+    {
+      "id": 556,
+      "category": "books",
+      "region": "South",
+      "sales": 191,
+      "createdAt": "12/27/2021"
+    },
+    {
+      "id": 557,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 126,
+      "createdAt": "12/19/2021"
+    },
+    {
+      "id": 558,
+      "category": "clothing",
+      "region": "West",
+      "sales": 423,
+      "createdAt": "2/10/2023"
+    },
+    {
+      "id": 559,
+      "category": "books",
+      "region": "East",
+      "sales": 403,
+      "createdAt": "8/19/2021"
+    },
+    {
+      "id": 560,
+      "category": "home decor",
+      "region": "West",
+      "sales": 192,
+      "createdAt": "8/22/2023"
+    },
+    {
+      "id": 561,
+      "category": "books",
+      "region": "East",
+      "sales": 157,
+      "createdAt": "10/27/2022"
+    },
+    {
+      "id": 562,
+      "category": "clothing",
+      "region": "South",
+      "sales": 269,
+      "createdAt": "1/2/2021"
+    },
+    {
+      "id": 563,
+      "category": "electronics",
+      "region": "South",
+      "sales": 321,
+      "createdAt": "6/4/2022"
+    },
+    {
+      "id": 564,
+      "category": "toys",
+      "region": "East",
+      "sales": 52,
+      "createdAt": "4/9/2022"
+    },
+    {
+      "id": 565,
+      "category": "electronics",
+      "region": "East",
+      "sales": 142,
+      "createdAt": "12/6/2023"
+    },
+    {
+      "id": 566,
+      "category": "books",
+      "region": "North",
+      "sales": 399,
+      "createdAt": "10/4/2021"
+    },
+    {
+      "id": 567,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 117,
+      "createdAt": "6/27/2023"
+    },
+    {
+      "id": 568,
+      "category": "electronics",
+      "region": "East",
+      "sales": 137,
+      "createdAt": "7/20/2021"
+    },
+    {
+      "id": 569,
+      "category": "clothing",
+      "region": "West",
+      "sales": 71,
+      "createdAt": "2/20/2022"
+    },
+    {
+      "id": 570,
+      "category": "electronics",
+      "region": "North",
+      "sales": 206,
+      "createdAt": "3/31/2024"
+    },
+    {
+      "id": 571,
+      "category": "books",
+      "region": "South",
+      "sales": 314,
+      "createdAt": "10/20/2022"
+    },
+    {
+      "id": 572,
+      "category": "home decor",
+      "region": "East",
+      "sales": 111,
+      "createdAt": "4/7/2022"
+    },
+    {
+      "id": 573,
+      "category": "clothing",
+      "region": "North",
+      "sales": 154,
+      "createdAt": "1/28/2021"
+    },
+    {
+      "id": 574,
+      "category": "clothing",
+      "region": "North",
+      "sales": 351,
+      "createdAt": "8/22/2023"
+    },
+    {
+      "id": 575,
+      "category": "electronics",
+      "region": "South",
+      "sales": 31,
+      "createdAt": "12/27/2023"
+    },
+    {
+      "id": 576,
+      "category": "books",
+      "region": "West",
+      "sales": 390,
+      "createdAt": "7/9/2021"
+    },
+    {
+      "id": 577,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 462,
+      "createdAt": "8/27/2022"
+    },
+    {
+      "id": 578,
+      "category": "toys",
+      "region": "West",
+      "sales": 368,
+      "createdAt": "7/15/2022"
+    },
+    {
+      "id": 579,
+      "category": "home decor",
+      "region": "East",
+      "sales": 197,
+      "createdAt": "12/26/2021"
+    },
+    {
+      "id": 580,
+      "category": "home decor",
+      "region": "East",
+      "sales": 200,
+      "createdAt": "4/29/2021"
+    },
+    {
+      "id": 581,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 142,
+      "createdAt": "2/9/2023"
+    },
+    {
+      "id": 582,
+      "category": "electronics",
+      "region": "East",
+      "sales": 76,
+      "createdAt": "3/4/2024"
+    },
+    {
+      "id": 583,
+      "category": "books",
+      "region": "East",
+      "sales": 481,
+      "createdAt": "1/22/2024"
+    },
+    {
+      "id": 584,
+      "category": "toys",
+      "region": "South",
+      "sales": 152,
+      "createdAt": "8/11/2021"
+    },
+    {
+      "id": 585,
+      "category": "toys",
+      "region": "North",
+      "sales": 99,
+      "createdAt": "12/19/2021"
+    },
+    {
+      "id": 586,
+      "category": "electronics",
+      "region": "East",
+      "sales": 44,
+      "createdAt": "10/20/2023"
+    },
+    {
+      "id": 587,
+      "category": "electronics",
+      "region": "West",
+      "sales": 316,
+      "createdAt": "2/24/2023"
+    },
+    {
+      "id": 588,
+      "category": "toys",
+      "region": "East",
+      "sales": 164,
+      "createdAt": "6/7/2021"
+    },
+    {
+      "id": 589,
+      "category": "toys",
+      "region": "North",
+      "sales": 154,
+      "createdAt": "3/25/2022"
+    },
+    {
+      "id": 590,
+      "category": "clothing",
+      "region": "West",
+      "sales": 190,
+      "createdAt": "8/15/2021"
+    },
+    {
+      "id": 591,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 459,
+      "createdAt": "6/8/2021"
+    },
+    {
+      "id": 592,
+      "category": "electronics",
+      "region": "North",
+      "sales": 457,
+      "createdAt": "5/11/2023"
+    },
+    {
+      "id": 593,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 188,
+      "createdAt": "10/9/2023"
+    },
+    {
+      "id": 594,
+      "category": "home decor",
+      "region": "South",
+      "sales": 306,
+      "createdAt": "4/30/2021"
+    },
+    {
+      "id": 595,
+      "category": "toys",
+      "region": "South",
+      "sales": 416,
+      "createdAt": "2/11/2023"
+    },
+    {
+      "id": 596,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 359,
+      "createdAt": "9/24/2023"
+    },
+    {
+      "id": 597,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 188,
+      "createdAt": "8/14/2023"
+    },
+    {
+      "id": 598,
+      "category": "toys",
+      "region": "West",
+      "sales": 158,
+      "createdAt": "10/16/2022"
+    },
+    {
+      "id": 599,
+      "category": "clothing",
+      "region": "South",
+      "sales": 28,
+      "createdAt": "9/28/2021"
+    },
+    {
+      "id": 600,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 402,
+      "createdAt": "6/3/2023"
+    },
+    {
+      "id": 601,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 72,
+      "createdAt": "7/27/2021"
+    },
+    {
+      "id": 602,
+      "category": "toys",
+      "region": "East",
+      "sales": 148,
+      "createdAt": "7/16/2023"
+    },
+    {
+      "id": 603,
+      "category": "books",
+      "region": "East",
+      "sales": 430,
+      "createdAt": "7/19/2021"
+    },
+    {
+      "id": 604,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 305,
+      "createdAt": "9/6/2023"
+    },
+    {
+      "id": 605,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 101,
+      "createdAt": "3/21/2022"
+    },
+    {
+      "id": 606,
+      "category": "clothing",
+      "region": "North",
+      "sales": 66,
+      "createdAt": "10/12/2021"
+    },
+    {
+      "id": 607,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 204,
+      "createdAt": "3/30/2024"
+    },
+    {
+      "id": 608,
+      "category": "home decor",
+      "region": "South",
+      "sales": 86,
+      "createdAt": "11/19/2023"
+    },
+    {
+      "id": 609,
+      "category": "electronics",
+      "region": "South",
+      "sales": 257,
+      "createdAt": "1/19/2023"
+    },
+    {
+      "id": 610,
+      "category": "books",
+      "region": "East",
+      "sales": 44,
+      "createdAt": "1/15/2022"
+    },
+    {
+      "id": 611,
+      "category": "toys",
+      "region": "South",
+      "sales": 64,
+      "createdAt": "6/21/2022"
+    },
+    {
+      "id": 612,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 80,
+      "createdAt": "3/25/2024"
+    },
+    {
+      "id": 613,
+      "category": "home decor",
+      "region": "East",
+      "sales": 63,
+      "createdAt": "2/27/2023"
+    },
+    {
+      "id": 614,
+      "category": "electronics",
+      "region": "North",
+      "sales": 339,
+      "createdAt": "4/19/2023"
+    },
+    {
+      "id": 615,
+      "category": "home decor",
+      "region": "South",
+      "sales": 240,
+      "createdAt": "6/9/2023"
+    },
+    {
+      "id": 616,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 465,
+      "createdAt": "11/9/2022"
+    },
+    {
+      "id": 617,
+      "category": "clothing",
+      "region": "South",
+      "sales": 312,
+      "createdAt": "11/22/2022"
+    },
+    {
+      "id": 618,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 36,
+      "createdAt": "2/22/2022"
+    },
+    {
+      "id": 619,
+      "category": "electronics",
+      "region": "South",
+      "sales": 473,
+      "createdAt": "6/3/2023"
+    },
+    {
+      "id": 620,
+      "category": "toys",
+      "region": "North",
+      "sales": 478,
+      "createdAt": "6/2/2023"
+    },
+    {
+      "id": 621,
+      "category": "toys",
+      "region": "South",
+      "sales": 494,
+      "createdAt": "12/16/2023"
+    },
+    {
+      "id": 622,
+      "category": "toys",
+      "region": "South",
+      "sales": 167,
+      "createdAt": "3/16/2024"
+    },
+    {
+      "id": 623,
+      "category": "electronics",
+      "region": "West",
+      "sales": 184,
+      "createdAt": "2/1/2021"
+    },
+    {
+      "id": 624,
+      "category": "electronics",
+      "region": "North",
+      "sales": 361,
+      "createdAt": "4/18/2023"
+    },
+    {
+      "id": 625,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 67,
+      "createdAt": "9/22/2022"
+    },
+    {
+      "id": 626,
+      "category": "home decor",
+      "region": "North",
+      "sales": 28,
+      "createdAt": "11/1/2022"
+    },
+    {
+      "id": 627,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 388,
+      "createdAt": "10/20/2023"
+    },
+    {
+      "id": 628,
+      "category": "clothing",
+      "region": "South",
+      "sales": 340,
+      "createdAt": "12/26/2022"
+    },
+    {
+      "id": 629,
+      "category": "home decor",
+      "region": "South",
+      "sales": 108,
+      "createdAt": "8/23/2022"
+    },
+    {
+      "id": 630,
+      "category": "clothing",
+      "region": "West",
+      "sales": 460,
+      "createdAt": "8/14/2021"
+    },
+    {
+      "id": 631,
+      "category": "toys",
+      "region": "South",
+      "sales": 391,
+      "createdAt": "1/3/2024"
+    },
+    {
+      "id": 632,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 453,
+      "createdAt": "8/17/2023"
+    },
+    {
+      "id": 633,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 449,
+      "createdAt": "7/20/2023"
+    },
+    {
+      "id": 634,
+      "category": "home decor",
+      "region": "South",
+      "sales": 482,
+      "createdAt": "1/4/2024"
+    },
+    {
+      "id": 635,
+      "category": "electronics",
+      "region": "North",
+      "sales": 446,
+      "createdAt": "9/16/2021"
+    },
+    {
+      "id": 636,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 81,
+      "createdAt": "3/7/2023"
+    },
+    {
+      "id": 637,
+      "category": "home decor",
+      "region": "North",
+      "sales": 429,
+      "createdAt": "1/10/2021"
+    },
+    {
+      "id": 638,
+      "category": "electronics",
+      "region": "East",
+      "sales": 171,
+      "createdAt": "3/10/2021"
+    },
+    {
+      "id": 639,
+      "category": "toys",
+      "region": "South",
+      "sales": 87,
+      "createdAt": "11/2/2023"
+    },
+    {
+      "id": 640,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 32,
+      "createdAt": "1/25/2022"
+    },
+    {
+      "id": 641,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 423,
+      "createdAt": "5/17/2021"
+    },
+    {
+      "id": 642,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 393,
+      "createdAt": "1/5/2022"
+    },
+    {
+      "id": 643,
+      "category": "home decor",
+      "region": "South",
+      "sales": 85,
+      "createdAt": "11/8/2022"
+    },
+    {
+      "id": 644,
+      "category": "electronics",
+      "region": "North",
+      "sales": 8,
+      "createdAt": "1/26/2023"
+    },
+    {
+      "id": 645,
+      "category": "books",
+      "region": "South",
+      "sales": 207,
+      "createdAt": "5/10/2023"
+    },
+    {
+      "id": 646,
+      "category": "toys",
+      "region": "South",
+      "sales": 237,
+      "createdAt": "2/15/2021"
+    },
+    {
+      "id": 647,
+      "category": "toys",
+      "region": "South",
+      "sales": 332,
+      "createdAt": "2/2/2024"
+    },
+    {
+      "id": 648,
+      "category": "home decor",
+      "region": "North",
+      "sales": 337,
+      "createdAt": "6/11/2021"
+    },
+    {
+      "id": 649,
+      "category": "electronics",
+      "region": "West",
+      "sales": 121,
+      "createdAt": "7/24/2021"
+    },
+    {
+      "id": 650,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 40,
+      "createdAt": "5/16/2022"
+    },
+    {
+      "id": 651,
+      "category": "clothing",
+      "region": "East",
+      "sales": 61,
+      "createdAt": "6/12/2023"
+    },
+    {
+      "id": 652,
+      "category": "electronics",
+      "region": "East",
+      "sales": 306,
+      "createdAt": "9/7/2023"
+    },
+    {
+      "id": 653,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 350,
+      "createdAt": "12/2/2021"
+    },
+    {
+      "id": 654,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 105,
+      "createdAt": "12/26/2021"
+    },
+    {
+      "id": 655,
+      "category": "electronics",
+      "region": "East",
+      "sales": 439,
+      "createdAt": "9/5/2023"
+    },
+    {
+      "id": 656,
+      "category": "clothing",
+      "region": "West",
+      "sales": 312,
+      "createdAt": "2/1/2023"
+    },
+    {
+      "id": 657,
+      "category": "clothing",
+      "region": "West",
+      "sales": 94,
+      "createdAt": "6/6/2021"
+    },
+    {
+      "id": 658,
+      "category": "clothing",
+      "region": "North",
+      "sales": 476,
+      "createdAt": "8/25/2023"
+    },
+    {
+      "id": 659,
+      "category": "books",
+      "region": "East",
+      "sales": 464,
+      "createdAt": "6/21/2022"
+    },
+    {
+      "id": 660,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 194,
+      "createdAt": "2/21/2023"
+    },
+    {
+      "id": 661,
+      "category": "home decor",
+      "region": "South",
+      "sales": 153,
+      "createdAt": "9/24/2023"
+    },
+    {
+      "id": 662,
+      "category": "books",
+      "region": "East",
+      "sales": 388,
+      "createdAt": "4/22/2022"
+    },
+    {
+      "id": 663,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 409,
+      "createdAt": "1/21/2021"
+    },
+    {
+      "id": 664,
+      "category": "electronics",
+      "region": "North",
+      "sales": 459,
+      "createdAt": "9/29/2022"
+    },
+    {
+      "id": 665,
+      "category": "electronics",
+      "region": "South",
+      "sales": 268,
+      "createdAt": "2/7/2021"
+    },
+    {
+      "id": 666,
+      "category": "home decor",
+      "region": "East",
+      "sales": 389,
+      "createdAt": "12/27/2023"
+    },
+    {
+      "id": 667,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 287,
+      "createdAt": "3/25/2024"
+    },
+    {
+      "id": 668,
+      "category": "clothing",
+      "region": "East",
+      "sales": 284,
+      "createdAt": "9/24/2021"
+    },
+    {
+      "id": 669,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 171,
+      "createdAt": "11/23/2022"
+    },
+    {
+      "id": 670,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 225,
+      "createdAt": "9/5/2022"
+    },
+    {
+      "id": 671,
+      "category": "home decor",
+      "region": "South",
+      "sales": 21,
+      "createdAt": "12/21/2021"
+    },
+    {
+      "id": 672,
+      "category": "electronics",
+      "region": "West",
+      "sales": 20,
+      "createdAt": "10/15/2022"
+    },
+    {
+      "id": 673,
+      "category": "toys",
+      "region": "North",
+      "sales": 499,
+      "createdAt": "5/27/2022"
+    },
+    {
+      "id": 674,
+      "category": "home decor",
+      "region": "East",
+      "sales": 138,
+      "createdAt": "2/18/2024"
+    },
+    {
+      "id": 675,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 306,
+      "createdAt": "5/17/2023"
+    },
+    {
+      "id": 676,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 289,
+      "createdAt": "10/19/2022"
+    },
+    {
+      "id": 677,
+      "category": "clothing",
+      "region": "West",
+      "sales": 404,
+      "createdAt": "4/3/2024"
+    },
+    {
+      "id": 678,
+      "category": "toys",
+      "region": "West",
+      "sales": 103,
+      "createdAt": "8/10/2021"
+    },
+    {
+      "id": 679,
+      "category": "clothing",
+      "region": "East",
+      "sales": 111,
+      "createdAt": "11/9/2022"
+    },
+    {
+      "id": 680,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 319,
+      "createdAt": "8/22/2023"
+    },
+    {
+      "id": 681,
+      "category": "clothing",
+      "region": "East",
+      "sales": 340,
+      "createdAt": "3/14/2024"
+    },
+    {
+      "id": 682,
+      "category": "electronics",
+      "region": "East",
+      "sales": 96,
+      "createdAt": "4/26/2022"
+    },
+    {
+      "id": 683,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 33,
+      "createdAt": "10/19/2023"
+    },
+    {
+      "id": 684,
+      "category": "electronics",
+      "region": "East",
+      "sales": 38,
+      "createdAt": "12/7/2021"
+    },
+    {
+      "id": 685,
+      "category": "books",
+      "region": "East",
+      "sales": 23,
+      "createdAt": "12/17/2021"
+    },
+    {
+      "id": 686,
+      "category": "clothing",
+      "region": "West",
+      "sales": 446,
+      "createdAt": "4/13/2023"
+    },
+    {
+      "id": 687,
+      "category": "toys",
+      "region": "South",
+      "sales": 184,
+      "createdAt": "2/5/2022"
+    },
+    {
+      "id": 688,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 292,
+      "createdAt": "9/8/2022"
+    },
+    {
+      "id": 689,
+      "category": "books",
+      "region": "West",
+      "sales": 14,
+      "createdAt": "3/8/2022"
+    },
+    {
+      "id": 690,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 259,
+      "createdAt": "5/10/2022"
+    },
+    {
+      "id": 691,
+      "category": "home decor",
+      "region": "East",
+      "sales": 167,
+      "createdAt": "2/28/2024"
+    },
+    {
+      "id": 692,
+      "category": "clothing",
+      "region": "East",
+      "sales": 185,
+      "createdAt": "3/13/2024"
+    },
+    {
+      "id": 693,
+      "category": "electronics",
+      "region": "West",
+      "sales": 398,
+      "createdAt": "10/25/2022"
+    },
+    {
+      "id": 694,
+      "category": "books",
+      "region": "East",
+      "sales": 28,
+      "createdAt": "7/4/2023"
+    },
+    {
+      "id": 695,
+      "category": "clothing",
+      "region": "East",
+      "sales": 266,
+      "createdAt": "2/1/2023"
+    },
+    {
+      "id": 696,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 368,
+      "createdAt": "2/3/2021"
+    },
+    {
+      "id": 697,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 308,
+      "createdAt": "4/20/2022"
+    },
+    {
+      "id": 698,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 119,
+      "createdAt": "2/28/2024"
+    },
+    {
+      "id": 699,
+      "category": "home decor",
+      "region": "East",
+      "sales": 102,
+      "createdAt": "2/9/2021"
+    },
+    {
+      "id": 700,
+      "category": "electronics",
+      "region": "East",
+      "sales": 182,
+      "createdAt": "3/3/2024"
+    },
+    {
+      "id": 701,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 192,
+      "createdAt": "6/22/2021"
+    },
+    {
+      "id": 702,
+      "category": "books",
+      "region": "West",
+      "sales": 480,
+      "createdAt": "3/10/2022"
+    },
+    {
+      "id": 703,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 23,
+      "createdAt": "7/18/2022"
+    },
+    {
+      "id": 704,
+      "category": "clothing",
+      "region": "West",
+      "sales": 136,
+      "createdAt": "5/25/2023"
+    },
+    {
+      "id": 705,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 338,
+      "createdAt": "5/8/2022"
+    },
+    {
+      "id": 706,
+      "category": "toys",
+      "region": "West",
+      "sales": 29,
+      "createdAt": "12/29/2022"
+    },
+    {
+      "id": 707,
+      "category": "home decor",
+      "region": "North",
+      "sales": 359,
+      "createdAt": "12/24/2021"
+    },
+    {
+      "id": 708,
+      "category": "home decor",
+      "region": "North",
+      "sales": 313,
+      "createdAt": "5/7/2023"
+    },
+    {
+      "id": 709,
+      "category": "toys",
+      "region": "West",
+      "sales": 421,
+      "createdAt": "4/18/2021"
+    },
+    {
+      "id": 710,
+      "category": "clothing",
+      "region": "North",
+      "sales": 75,
+      "createdAt": "3/9/2021"
+    },
+    {
+      "id": 711,
+      "category": "books",
+      "region": "West",
+      "sales": 213,
+      "createdAt": "4/7/2023"
+    },
+    {
+      "id": 712,
+      "category": "clothing",
+      "region": "North",
+      "sales": 274,
+      "createdAt": "3/5/2023"
+    },
+    {
+      "id": 713,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 489,
+      "createdAt": "10/30/2022"
+    },
+    {
+      "id": 714,
+      "category": "toys",
+      "region": "South",
+      "sales": 108,
+      "createdAt": "11/29/2021"
+    },
+    {
+      "id": 715,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 381,
+      "createdAt": "5/7/2021"
+    },
+    {
+      "id": 716,
+      "category": "books",
+      "region": "North",
+      "sales": 4,
+      "createdAt": "8/4/2021"
+    },
+    {
+      "id": 717,
+      "category": "home decor",
+      "region": "North",
+      "sales": 313,
+      "createdAt": "7/23/2021"
+    },
+    {
+      "id": 718,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 140,
+      "createdAt": "1/25/2022"
+    },
+    {
+      "id": 719,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 305,
+      "createdAt": "3/3/2022"
+    },
+    {
+      "id": 720,
+      "category": "books",
+      "region": "South",
+      "sales": 466,
+      "createdAt": "12/14/2023"
+    },
+    {
+      "id": 721,
+      "category": "books",
+      "region": "West",
+      "sales": 323,
+      "createdAt": "3/2/2024"
+    },
+    {
+      "id": 722,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 22,
+      "createdAt": "1/26/2022"
+    },
+    {
+      "id": 723,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 219,
+      "createdAt": "1/5/2024"
+    },
+    {
+      "id": 724,
+      "category": "clothing",
+      "region": "West",
+      "sales": 388,
+      "createdAt": "4/23/2023"
+    },
+    {
+      "id": 725,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 242,
+      "createdAt": "2/11/2024"
+    },
+    {
+      "id": 726,
+      "category": "home decor",
+      "region": "North",
+      "sales": 373,
+      "createdAt": "10/27/2021"
+    },
+    {
+      "id": 727,
+      "category": "electronics",
+      "region": "East",
+      "sales": 218,
+      "createdAt": "5/25/2022"
+    },
+    {
+      "id": 728,
+      "category": "clothing",
+      "region": "North",
+      "sales": 131,
+      "createdAt": "2/12/2023"
+    },
+    {
+      "id": 729,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 367,
+      "createdAt": "2/15/2023"
+    },
+    {
+      "id": 730,
+      "category": "electronics",
+      "region": "North",
+      "sales": 215,
+      "createdAt": "1/6/2024"
+    },
+    {
+      "id": 731,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 231,
+      "createdAt": "9/22/2022"
+    },
+    {
+      "id": 732,
+      "category": "toys",
+      "region": "North",
+      "sales": 159,
+      "createdAt": "6/26/2021"
+    },
+    {
+      "id": 733,
+      "category": "books",
+      "region": "South",
+      "sales": 485,
+      "createdAt": "7/23/2023"
+    },
+    {
+      "id": 734,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 109,
+      "createdAt": "5/29/2023"
+    },
+    {
+      "id": 735,
+      "category": "clothing",
+      "region": "West",
+      "sales": 188,
+      "createdAt": "10/10/2021"
+    },
+    {
+      "id": 736,
+      "category": "clothing",
+      "region": "East",
+      "sales": 2,
+      "createdAt": "5/17/2022"
+    },
+    {
+      "id": 737,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 303,
+      "createdAt": "8/13/2021"
+    },
+    {
+      "id": 738,
+      "category": "books",
+      "region": "North",
+      "sales": 71,
+      "createdAt": "3/21/2021"
+    },
+    {
+      "id": 739,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 128,
+      "createdAt": "8/21/2023"
+    },
+    {
+      "id": 740,
+      "category": "clothing",
+      "region": "West",
+      "sales": 272,
+      "createdAt": "1/16/2022"
+    },
+    {
+      "id": 741,
+      "category": "electronics",
+      "region": "North",
+      "sales": 298,
+      "createdAt": "1/22/2023"
+    },
+    {
+      "id": 742,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 463,
+      "createdAt": "3/17/2021"
+    },
+    {
+      "id": 743,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 23,
+      "createdAt": "10/6/2022"
+    },
+    {
+      "id": 744,
+      "category": "clothing",
+      "region": "North",
+      "sales": 73,
+      "createdAt": "5/7/2023"
+    },
+    {
+      "id": 745,
+      "category": "home decor",
+      "region": "North",
+      "sales": 205,
+      "createdAt": "6/23/2021"
+    },
+    {
+      "id": 746,
+      "category": "books",
+      "region": "North",
+      "sales": 24,
+      "createdAt": "10/31/2022"
+    },
+    {
+      "id": 747,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 357,
+      "createdAt": "10/10/2023"
+    },
+    {
+      "id": 748,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 448,
+      "createdAt": "9/7/2022"
+    },
+    {
+      "id": 749,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 290,
+      "createdAt": "3/29/2023"
+    },
+    {
+      "id": 750,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 151,
+      "createdAt": "1/15/2022"
+    },
+    {
+      "id": 751,
+      "category": "home decor",
+      "region": "East",
+      "sales": 78,
+      "createdAt": "5/19/2023"
+    },
+    {
+      "id": 752,
+      "category": "electronics",
+      "region": "South",
+      "sales": 396,
+      "createdAt": "1/28/2024"
+    },
+    {
+      "id": 753,
+      "category": "clothing",
+      "region": "East",
+      "sales": 137,
+      "createdAt": "2/7/2023"
+    },
+    {
+      "id": 754,
+      "category": "toys",
+      "region": "West",
+      "sales": 366,
+      "createdAt": "10/10/2022"
+    },
+    {
+      "id": 755,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 226,
+      "createdAt": "2/29/2024"
+    },
+    {
+      "id": 756,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 78,
+      "createdAt": "9/4/2022"
+    },
+    {
+      "id": 757,
+      "category": "electronics",
+      "region": "East",
+      "sales": 70,
+      "createdAt": "5/19/2021"
+    },
+    {
+      "id": 758,
+      "category": "clothing",
+      "region": "West",
+      "sales": 287,
+      "createdAt": "8/12/2022"
+    },
+    {
+      "id": 759,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 230,
+      "createdAt": "8/14/2022"
+    },
+    {
+      "id": 760,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 121,
+      "createdAt": "7/13/2022"
+    },
+    {
+      "id": 761,
+      "category": "electronics",
+      "region": "South",
+      "sales": 330,
+      "createdAt": "10/19/2023"
+    },
+    {
+      "id": 762,
+      "category": "home decor",
+      "region": "East",
+      "sales": 482,
+      "createdAt": "8/8/2023"
+    },
+    {
+      "id": 763,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 428,
+      "createdAt": "11/25/2023"
+    },
+    {
+      "id": 764,
+      "category": "clothing",
+      "region": "South",
+      "sales": 120,
+      "createdAt": "4/30/2023"
+    },
+    {
+      "id": 765,
+      "category": "home decor",
+      "region": "East",
+      "sales": 251,
+      "createdAt": "5/8/2022"
+    },
+    {
+      "id": 766,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 50,
+      "createdAt": "12/2/2023"
+    },
+    {
+      "id": 767,
+      "category": "books",
+      "region": "East",
+      "sales": 400,
+      "createdAt": "4/20/2023"
+    },
+    {
+      "id": 768,
+      "category": "books",
+      "region": "East",
+      "sales": 108,
+      "createdAt": "2/25/2024"
+    },
+    {
+      "id": 769,
+      "category": "home decor",
+      "region": "West",
+      "sales": 112,
+      "createdAt": "7/25/2023"
+    },
+    {
+      "id": 770,
+      "category": "home decor",
+      "region": "North",
+      "sales": 434,
+      "createdAt": "1/13/2021"
+    },
+    {
+      "id": 771,
+      "category": "clothing",
+      "region": "North",
+      "sales": 244,
+      "createdAt": "9/9/2021"
+    },
+    {
+      "id": 772,
+      "category": "clothing",
+      "region": "South",
+      "sales": 106,
+      "createdAt": "2/8/2023"
+    },
+    {
+      "id": 773,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 124,
+      "createdAt": "2/11/2023"
+    },
+    {
+      "id": 774,
+      "category": "clothing",
+      "region": "East",
+      "sales": 20,
+      "createdAt": "6/20/2022"
+    },
+    {
+      "id": 775,
+      "category": "books",
+      "region": "North",
+      "sales": 78,
+      "createdAt": "8/16/2021"
+    },
+    {
+      "id": 776,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 278,
+      "createdAt": "10/22/2022"
+    },
+    {
+      "id": 777,
+      "category": "electronics",
+      "region": "South",
+      "sales": 167,
+      "createdAt": "10/1/2023"
+    },
+    {
+      "id": 778,
+      "category": "books",
+      "region": "South",
+      "sales": 368,
+      "createdAt": "8/28/2021"
+    },
+    {
+      "id": 779,
+      "category": "home decor",
+      "region": "North",
+      "sales": 77,
+      "createdAt": "11/13/2021"
+    },
+    {
+      "id": 780,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 471,
+      "createdAt": "3/6/2021"
+    },
+    {
+      "id": 781,
+      "category": "electronics",
+      "region": "East",
+      "sales": 163,
+      "createdAt": "12/5/2021"
+    },
+    {
+      "id": 782,
+      "category": "books",
+      "region": "East",
+      "sales": 188,
+      "createdAt": "11/18/2021"
+    },
+    {
+      "id": 783,
+      "category": "home decor",
+      "region": "East",
+      "sales": 321,
+      "createdAt": "6/2/2023"
+    },
+    {
+      "id": 784,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 103,
+      "createdAt": "2/5/2023"
+    },
+    {
+      "id": 785,
+      "category": "toys",
+      "region": "North",
+      "sales": 240,
+      "createdAt": "10/30/2021"
+    },
+    {
+      "id": 786,
+      "category": "books",
+      "region": "North",
+      "sales": 368,
+      "createdAt": "4/25/2022"
+    },
+    {
+      "id": 787,
+      "category": "books",
+      "region": "East",
+      "sales": 338,
+      "createdAt": "7/19/2022"
+    },
+    {
+      "id": 788,
+      "category": "home decor",
+      "region": "East",
+      "sales": 377,
+      "createdAt": "8/22/2023"
+    },
+    {
+      "id": 789,
+      "category": "clothing",
+      "region": "South",
+      "sales": 453,
+      "createdAt": "1/31/2021"
+    },
+    {
+      "id": 790,
+      "category": "books",
+      "region": "East",
+      "sales": 88,
+      "createdAt": "4/7/2021"
+    },
+    {
+      "id": 791,
+      "category": "books",
+      "region": "South",
+      "sales": 293,
+      "createdAt": "1/20/2024"
+    },
+    {
+      "id": 792,
+      "category": "books",
+      "region": "East",
+      "sales": 500,
+      "createdAt": "3/5/2021"
+    },
+    {
+      "id": 793,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 381,
+      "createdAt": "7/7/2021"
+    },
+    {
+      "id": 794,
+      "category": "home decor",
+      "region": "East",
+      "sales": 469,
+      "createdAt": "5/17/2022"
+    },
+    {
+      "id": 795,
+      "category": "toys",
+      "region": "North",
+      "sales": 216,
+      "createdAt": "3/7/2021"
+    },
+    {
+      "id": 796,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 105,
+      "createdAt": "2/7/2024"
+    },
+    {
+      "id": 797,
+      "category": "books",
+      "region": "North",
+      "sales": 57,
+      "createdAt": "8/17/2023"
+    },
+    {
+      "id": 798,
+      "category": "electronics",
+      "region": "East",
+      "sales": 227,
+      "createdAt": "1/31/2023"
+    },
+    {
+      "id": 799,
+      "category": "electronics",
+      "region": "East",
+      "sales": 139,
+      "createdAt": "5/12/2022"
+    },
+    {
+      "id": 800,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 410,
+      "createdAt": "8/21/2022"
+    },
+    {
+      "id": 801,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 110,
+      "createdAt": "9/7/2021"
+    },
+    {
+      "id": 802,
+      "category": "toys",
+      "region": "South",
+      "sales": 270,
+      "createdAt": "12/10/2022"
+    },
+    {
+      "id": 803,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 201,
+      "createdAt": "3/12/2024"
+    },
+    {
+      "id": 804,
+      "category": "home decor",
+      "region": "East",
+      "sales": 407,
+      "createdAt": "4/9/2021"
+    },
+    {
+      "id": 805,
+      "category": "electronics",
+      "region": "East",
+      "sales": 337,
+      "createdAt": "12/25/2023"
+    },
+    {
+      "id": 806,
+      "category": "electronics",
+      "region": "North",
+      "sales": 90,
+      "createdAt": "9/13/2021"
+    },
+    {
+      "id": 807,
+      "category": "clothing",
+      "region": "North",
+      "sales": 131,
+      "createdAt": "10/13/2022"
+    },
+    {
+      "id": 808,
+      "category": "electronics",
+      "region": "West",
+      "sales": 219,
+      "createdAt": "4/11/2022"
+    },
+    {
+      "id": 809,
+      "category": "electronics",
+      "region": "West",
+      "sales": 31,
+      "createdAt": "3/14/2023"
+    },
+    {
+      "id": 810,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 33,
+      "createdAt": "1/18/2022"
+    },
+    {
+      "id": 811,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 404,
+      "createdAt": "8/16/2023"
+    },
+    {
+      "id": 812,
+      "category": "electronics",
+      "region": "West",
+      "sales": 252,
+      "createdAt": "9/26/2022"
+    },
+    {
+      "id": 813,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 47,
+      "createdAt": "3/5/2022"
+    },
+    {
+      "id": 814,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 229,
+      "createdAt": "6/2/2021"
+    },
+    {
+      "id": 815,
+      "category": "toys",
+      "region": "East",
+      "sales": 281,
+      "createdAt": "11/25/2023"
+    },
+    {
+      "id": 816,
+      "category": "books",
+      "region": "South",
+      "sales": 103,
+      "createdAt": "10/19/2021"
+    },
+    {
+      "id": 817,
+      "category": "clothing",
+      "region": "South",
+      "sales": 11,
+      "createdAt": "1/3/2022"
+    },
+    {
+      "id": 818,
+      "category": "toys",
+      "region": "North",
+      "sales": 348,
+      "createdAt": "7/20/2021"
+    },
+    {
+      "id": 819,
+      "category": "home decor",
+      "region": "South",
+      "sales": 68,
+      "createdAt": "5/24/2021"
+    },
+    {
+      "id": 820,
+      "category": "toys",
+      "region": "North",
+      "sales": 481,
+      "createdAt": "10/25/2021"
+    },
+    {
+      "id": 821,
+      "category": "toys",
+      "region": "North",
+      "sales": 495,
+      "createdAt": "3/14/2023"
+    },
+    {
+      "id": 822,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 153,
+      "createdAt": "5/5/2022"
+    },
+    {
+      "id": 823,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 4,
+      "createdAt": "8/5/2021"
+    },
+    {
+      "id": 824,
+      "category": "books",
+      "region": "West",
+      "sales": 407,
+      "createdAt": "6/15/2021"
+    },
+    {
+      "id": 825,
+      "category": "electronics",
+      "region": "East",
+      "sales": 374,
+      "createdAt": "9/21/2022"
+    },
+    {
+      "id": 826,
+      "category": "home decor",
+      "region": "East",
+      "sales": 329,
+      "createdAt": "8/23/2023"
+    },
+    {
+      "id": 827,
+      "category": "toys",
+      "region": "North",
+      "sales": 338,
+      "createdAt": "10/14/2022"
+    },
+    {
+      "id": 828,
+      "category": "books",
+      "region": "West",
+      "sales": 317,
+      "createdAt": "9/30/2023"
+    },
+    {
+      "id": 829,
+      "category": "electronics",
+      "region": "North",
+      "sales": 178,
+      "createdAt": "8/5/2022"
+    },
+    {
+      "id": 830,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 48,
+      "createdAt": "8/6/2022"
+    },
+    {
+      "id": 831,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 44,
+      "createdAt": "6/13/2021"
+    },
+    {
+      "id": 832,
+      "category": "books",
+      "region": "East",
+      "sales": 219,
+      "createdAt": "12/18/2021"
+    },
+    {
+      "id": 833,
+      "category": "electronics",
+      "region": "East",
+      "sales": 300,
+      "createdAt": "10/21/2022"
+    },
+    {
+      "id": 834,
+      "category": "books",
+      "region": "South",
+      "sales": 48,
+      "createdAt": "8/21/2023"
+    },
+    {
+      "id": 835,
+      "category": "books",
+      "region": "West",
+      "sales": 34,
+      "createdAt": "7/11/2021"
+    },
+    {
+      "id": 836,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 17,
+      "createdAt": "11/29/2023"
+    },
+    {
+      "id": 837,
+      "category": "home decor",
+      "region": "East",
+      "sales": 456,
+      "createdAt": "11/4/2021"
+    },
+    {
+      "id": 838,
+      "category": "books",
+      "region": "North",
+      "sales": 349,
+      "createdAt": "9/29/2022"
+    },
+    {
+      "id": 839,
+      "category": "toys",
+      "region": "South",
+      "sales": 413,
+      "createdAt": "2/15/2022"
+    },
+    {
+      "id": 840,
+      "category": "toys",
+      "region": "East",
+      "sales": 240,
+      "createdAt": "1/27/2024"
+    },
+    {
+      "id": 841,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 361,
+      "createdAt": "5/18/2021"
+    },
+    {
+      "id": 842,
+      "category": "clothing",
+      "region": "East",
+      "sales": 116,
+      "createdAt": "3/14/2023"
+    },
+    {
+      "id": 843,
+      "category": "electronics",
+      "region": "South",
+      "sales": 460,
+      "createdAt": "4/15/2021"
+    },
+    {
+      "id": 844,
+      "category": "toys",
+      "region": "West",
+      "sales": 111,
+      "createdAt": "11/14/2021"
+    },
+    {
+      "id": 845,
+      "category": "books",
+      "region": "North",
+      "sales": 346,
+      "createdAt": "3/24/2024"
+    },
+    {
+      "id": 846,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 21,
+      "createdAt": "3/2/2022"
+    },
+    {
+      "id": 847,
+      "category": "home decor",
+      "region": "South",
+      "sales": 2,
+      "createdAt": "9/30/2023"
+    },
+    {
+      "id": 848,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 182,
+      "createdAt": "5/24/2021"
+    },
+    {
+      "id": 849,
+      "category": "electronics",
+      "region": "East",
+      "sales": 460,
+      "createdAt": "2/22/2021"
+    },
+    {
+      "id": 850,
+      "category": "electronics",
+      "region": "East",
+      "sales": 298,
+      "createdAt": "12/21/2023"
+    },
+    {
+      "id": 851,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 184,
+      "createdAt": "1/1/2022"
+    },
+    {
+      "id": 852,
+      "category": "home decor",
+      "region": "East",
+      "sales": 201,
+      "createdAt": "12/4/2021"
+    },
+    {
+      "id": 853,
+      "category": "home decor",
+      "region": "South",
+      "sales": 51,
+      "createdAt": "5/29/2023"
+    },
+    {
+      "id": 854,
+      "category": "books",
+      "region": "East",
+      "sales": 117,
+      "createdAt": "11/16/2023"
+    },
+    {
+      "id": 855,
+      "category": "home decor",
+      "region": "East",
+      "sales": 57,
+      "createdAt": "1/14/2024"
+    },
+    {
+      "id": 856,
+      "category": "home decor",
+      "region": "East",
+      "sales": 293,
+      "createdAt": "5/22/2023"
+    },
+    {
+      "id": 857,
+      "category": "books",
+      "region": "South",
+      "sales": 134,
+      "createdAt": "4/30/2021"
+    },
+    {
+      "id": 858,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 363,
+      "createdAt": "5/30/2021"
+    },
+    {
+      "id": 859,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 200,
+      "createdAt": "2/12/2024"
+    },
+    {
+      "id": 860,
+      "category": "home decor",
+      "region": "South",
+      "sales": 79,
+      "createdAt": "5/28/2023"
+    },
+    {
+      "id": 861,
+      "category": "electronics",
+      "region": "North",
+      "sales": 137,
+      "createdAt": "11/9/2022"
+    },
+    {
+      "id": 862,
+      "category": "clothing",
+      "region": "South",
+      "sales": 478,
+      "createdAt": "3/13/2021"
+    },
+    {
+      "id": 863,
+      "category": "toys",
+      "region": "East",
+      "sales": 141,
+      "createdAt": "4/20/2021"
+    },
+    {
+      "id": 864,
+      "category": "toys",
+      "region": "North",
+      "sales": 101,
+      "createdAt": "11/25/2022"
+    },
+    {
+      "id": 865,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 460,
+      "createdAt": "2/15/2021"
+    },
+    {
+      "id": 866,
+      "category": "electronics",
+      "region": "West",
+      "sales": 353,
+      "createdAt": "7/18/2021"
+    },
+    {
+      "id": 867,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 101,
+      "createdAt": "10/2/2022"
+    },
+    {
+      "id": 868,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 314,
+      "createdAt": "5/15/2023"
+    },
+    {
+      "id": 869,
+      "category": "home decor",
+      "region": "East",
+      "sales": 125,
+      "createdAt": "6/16/2022"
+    },
+    {
+      "id": 870,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 58,
+      "createdAt": "4/9/2023"
+    },
+    {
+      "id": 871,
+      "category": "home decor",
+      "region": "North",
+      "sales": 177,
+      "createdAt": "3/29/2023"
+    },
+    {
+      "id": 872,
+      "category": "clothing",
+      "region": "East",
+      "sales": 25,
+      "createdAt": "5/19/2022"
+    },
+    {
+      "id": 873,
+      "category": "clothing",
+      "region": "East",
+      "sales": 415,
+      "createdAt": "11/18/2022"
+    },
+    {
+      "id": 874,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 291,
+      "createdAt": "8/5/2023"
+    },
+    {
+      "id": 875,
+      "category": "home decor",
+      "region": "West",
+      "sales": 52,
+      "createdAt": "9/4/2021"
+    },
+    {
+      "id": 876,
+      "category": "toys",
+      "region": "East",
+      "sales": 440,
+      "createdAt": "10/19/2023"
+    },
+    {
+      "id": 877,
+      "category": "home decor",
+      "region": "West",
+      "sales": 391,
+      "createdAt": "7/20/2022"
+    },
+    {
+      "id": 878,
+      "category": "home decor",
+      "region": "North",
+      "sales": 368,
+      "createdAt": "2/23/2023"
+    },
+    {
+      "id": 879,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 459,
+      "createdAt": "8/24/2021"
+    },
+    {
+      "id": 880,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 174,
+      "createdAt": "8/28/2022"
+    },
+    {
+      "id": 881,
+      "category": "toys",
+      "region": "East",
+      "sales": 431,
+      "createdAt": "8/8/2022"
+    },
+    {
+      "id": 882,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 21,
+      "createdAt": "1/20/2023"
+    },
+    {
+      "id": 883,
+      "category": "books",
+      "region": "West",
+      "sales": 200,
+      "createdAt": "4/5/2021"
+    },
+    {
+      "id": 884,
+      "category": "home decor",
+      "region": "East",
+      "sales": 97,
+      "createdAt": "2/23/2022"
+    },
+    {
+      "id": 885,
+      "category": "electronics",
+      "region": "East",
+      "sales": 175,
+      "createdAt": "4/1/2023"
+    },
+    {
+      "id": 886,
+      "category": "clothing",
+      "region": "North",
+      "sales": 132,
+      "createdAt": "11/18/2022"
+    },
+    {
+      "id": 887,
+      "category": "books",
+      "region": "West",
+      "sales": 163,
+      "createdAt": "8/20/2023"
+    },
+    {
+      "id": 888,
+      "category": "electronics",
+      "region": "North",
+      "sales": 469,
+      "createdAt": "6/9/2023"
+    },
+    {
+      "id": 889,
+      "category": "books",
+      "region": "West",
+      "sales": 263,
+      "createdAt": "11/24/2022"
+    },
+    {
+      "id": 890,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 420,
+      "createdAt": "10/19/2021"
+    },
+    {
+      "id": 891,
+      "category": "electronics",
+      "region": "North",
+      "sales": 379,
+      "createdAt": "3/19/2022"
+    },
+    {
+      "id": 892,
+      "category": "clothing",
+      "region": "North",
+      "sales": 428,
+      "createdAt": "11/24/2023"
+    },
+    {
+      "id": 893,
+      "category": "home decor",
+      "region": "North",
+      "sales": 468,
+      "createdAt": "4/16/2021"
+    },
+    {
+      "id": 894,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 329,
+      "createdAt": "11/30/2023"
+    },
+    {
+      "id": 895,
+      "category": "toys",
+      "region": "West",
+      "sales": 232,
+      "createdAt": "6/15/2021"
+    },
+    {
+      "id": 896,
+      "category": "clothing",
+      "region": "West",
+      "sales": 468,
+      "createdAt": "3/3/2022"
+    },
+    {
+      "id": 897,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 37,
+      "createdAt": "5/8/2022"
+    },
+    {
+      "id": 898,
+      "category": "electronics",
+      "region": "South",
+      "sales": 176,
+      "createdAt": "8/23/2023"
+    },
+    {
+      "id": 899,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 45,
+      "createdAt": "5/17/2021"
+    },
+    {
+      "id": 900,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 107,
+      "createdAt": "1/3/2022"
+    },
+    {
+      "id": 901,
+      "category": "toys",
+      "region": "West",
+      "sales": 59,
+      "createdAt": "2/27/2022"
+    },
+    {
+      "id": 902,
+      "category": "books",
+      "region": "West",
+      "sales": 430,
+      "createdAt": "3/12/2023"
+    },
+    {
+      "id": 903,
+      "category": "home decor",
+      "region": "North",
+      "sales": 42,
+      "createdAt": "10/18/2022"
+    },
+    {
+      "id": 904,
+      "category": "toys",
+      "region": "North",
+      "sales": 433,
+      "createdAt": "5/3/2022"
+    },
+    {
+      "id": 905,
+      "category": "books",
+      "region": "West",
+      "sales": 441,
+      "createdAt": "8/18/2021"
+    },
+    {
+      "id": 906,
+      "category": "toys",
+      "region": "South",
+      "sales": 421,
+      "createdAt": "7/16/2021"
+    },
+    {
+      "id": 907,
+      "category": "home decor",
+      "region": "South",
+      "sales": 371,
+      "createdAt": "3/17/2021"
+    },
+    {
+      "id": 908,
+      "category": "toys",
+      "region": "East",
+      "sales": 98,
+      "createdAt": "3/22/2024"
+    },
+    {
+      "id": 909,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 59,
+      "createdAt": "2/17/2024"
+    },
+    {
+      "id": 910,
+      "category": "books",
+      "region": "East",
+      "sales": 115,
+      "createdAt": "2/4/2023"
+    },
+    {
+      "id": 911,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 157,
+      "createdAt": "5/23/2023"
+    },
+    {
+      "id": 912,
+      "category": "home decor",
+      "region": "East",
+      "sales": 348,
+      "createdAt": "9/16/2022"
+    },
+    {
+      "id": 913,
+      "category": "electronics",
+      "region": "South",
+      "sales": 38,
+      "createdAt": "2/19/2022"
+    },
+    {
+      "id": 914,
+      "category": "books",
+      "region": "North",
+      "sales": 296,
+      "createdAt": "9/11/2021"
+    },
+    {
+      "id": 915,
+      "category": "clothing",
+      "region": "North",
+      "sales": 305,
+      "createdAt": "3/27/2021"
+    },
+    {
+      "id": 916,
+      "category": "electronics",
+      "region": "West",
+      "sales": 173,
+      "createdAt": "9/26/2022"
+    },
+    {
+      "id": 917,
+      "category": "electronics",
+      "region": "North",
+      "sales": 88,
+      "createdAt": "2/21/2021"
+    },
+    {
+      "id": 918,
+      "category": "sports equipment",
+      "region": "West",
+      "sales": 94,
+      "createdAt": "4/28/2023"
+    },
+    {
+      "id": 919,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 414,
+      "createdAt": "6/26/2022"
+    },
+    {
+      "id": 920,
+      "category": "home decor",
+      "region": "East",
+      "sales": 466,
+      "createdAt": "7/11/2021"
+    },
+    {
+      "id": 921,
+      "category": "toys",
+      "region": "North",
+      "sales": 280,
+      "createdAt": "12/8/2022"
+    },
+    {
+      "id": 922,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 244,
+      "createdAt": "7/1/2022"
+    },
+    {
+      "id": 923,
+      "category": "electronics",
+      "region": "South",
+      "sales": 72,
+      "createdAt": "10/19/2023"
+    },
+    {
+      "id": 924,
+      "category": "clothing",
+      "region": "West",
+      "sales": 335,
+      "createdAt": "11/22/2023"
+    },
+    {
+      "id": 925,
+      "category": "books",
+      "region": "West",
+      "sales": 351,
+      "createdAt": "5/11/2023"
+    },
+    {
+      "id": 926,
+      "category": "toys",
+      "region": "West",
+      "sales": 408,
+      "createdAt": "4/8/2023"
+    },
+    {
+      "id": 927,
+      "category": "home decor",
+      "region": "West",
+      "sales": 404,
+      "createdAt": "1/21/2021"
+    },
+    {
+      "id": 928,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 77,
+      "createdAt": "9/10/2022"
+    },
+    {
+      "id": 929,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 114,
+      "createdAt": "11/10/2023"
+    },
+    {
+      "id": 930,
+      "category": "clothing",
+      "region": "South",
+      "sales": 133,
+      "createdAt": "3/4/2023"
+    },
+    {
+      "id": 931,
+      "category": "books",
+      "region": "West",
+      "sales": 137,
+      "createdAt": "8/27/2022"
+    },
+    {
+      "id": 932,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 425,
+      "createdAt": "2/12/2022"
+    },
+    {
+      "id": 933,
+      "category": "clothing",
+      "region": "West",
+      "sales": 0,
+      "createdAt": "3/21/2024"
+    },
+    {
+      "id": 934,
+      "category": "kitchen appliances",
+      "region": "North",
+      "sales": 238,
+      "createdAt": "2/1/2024"
+    },
+    {
+      "id": 935,
+      "category": "clothing",
+      "region": "North",
+      "sales": 374,
+      "createdAt": "1/1/2022"
+    },
+    {
+      "id": 936,
+      "category": "clothing",
+      "region": "South",
+      "sales": 414,
+      "createdAt": "2/29/2024"
+    },
+    {
+      "id": 937,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 17,
+      "createdAt": "3/22/2023"
+    },
+    {
+      "id": 938,
+      "category": "home decor",
+      "region": "West",
+      "sales": 4,
+      "createdAt": "1/3/2022"
+    },
+    {
+      "id": 939,
+      "category": "books",
+      "region": "North",
+      "sales": 461,
+      "createdAt": "11/9/2021"
+    },
+    {
+      "id": 940,
+      "category": "clothing",
+      "region": "South",
+      "sales": 45,
+      "createdAt": "6/9/2023"
+    },
+    {
+      "id": 941,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 0,
+      "createdAt": "1/7/2023"
+    },
+    {
+      "id": 942,
+      "category": "books",
+      "region": "South",
+      "sales": 104,
+      "createdAt": "7/17/2021"
+    },
+    {
+      "id": 943,
+      "category": "clothing",
+      "region": "West",
+      "sales": 460,
+      "createdAt": "8/28/2021"
+    },
+    {
+      "id": 944,
+      "category": "books",
+      "region": "West",
+      "sales": 358,
+      "createdAt": "5/13/2022"
+    },
+    {
+      "id": 945,
+      "category": "clothing",
+      "region": "East",
+      "sales": 107,
+      "createdAt": "3/1/2022"
+    },
+    {
+      "id": 946,
+      "category": "home decor",
+      "region": "East",
+      "sales": 230,
+      "createdAt": "10/26/2023"
+    },
+    {
+      "id": 947,
+      "category": "clothing",
+      "region": "West",
+      "sales": 157,
+      "createdAt": "10/29/2021"
+    },
+    {
+      "id": 948,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 225,
+      "createdAt": "12/10/2022"
+    },
+    {
+      "id": 949,
+      "category": "books",
+      "region": "South",
+      "sales": 58,
+      "createdAt": "1/26/2021"
+    },
+    {
+      "id": 950,
+      "category": "toys",
+      "region": "East",
+      "sales": 189,
+      "createdAt": "6/25/2021"
+    },
+    {
+      "id": 951,
+      "category": "electronics",
+      "region": "West",
+      "sales": 313,
+      "createdAt": "9/13/2022"
+    },
+    {
+      "id": 952,
+      "category": "toys",
+      "region": "East",
+      "sales": 275,
+      "createdAt": "2/22/2022"
+    },
+    {
+      "id": 953,
+      "category": "home decor",
+      "region": "East",
+      "sales": 65,
+      "createdAt": "2/20/2024"
+    },
+    {
+      "id": 954,
+      "category": "home decor",
+      "region": "South",
+      "sales": 355,
+      "createdAt": "2/21/2024"
+    },
+    {
+      "id": 955,
+      "category": "clothing",
+      "region": "West",
+      "sales": 213,
+      "createdAt": "7/6/2021"
+    },
+    {
+      "id": 956,
+      "category": "home decor",
+      "region": "East",
+      "sales": 202,
+      "createdAt": "4/20/2021"
+    },
+    {
+      "id": 957,
+      "category": "books",
+      "region": "West",
+      "sales": 67,
+      "createdAt": "7/22/2022"
+    },
+    {
+      "id": 958,
+      "category": "toys",
+      "region": "East",
+      "sales": 292,
+      "createdAt": "7/4/2022"
+    },
+    {
+      "id": 959,
+      "category": "toys",
+      "region": "South",
+      "sales": 256,
+      "createdAt": "8/8/2023"
+    },
+    {
+      "id": 960,
+      "category": "toys",
+      "region": "South",
+      "sales": 93,
+      "createdAt": "8/9/2021"
+    },
+    {
+      "id": 961,
+      "category": "books",
+      "region": "East",
+      "sales": 350,
+      "createdAt": "2/5/2023"
+    },
+    {
+      "id": 962,
+      "category": "clothing",
+      "region": "South",
+      "sales": 421,
+      "createdAt": "3/26/2021"
+    },
+    {
+      "id": 963,
+      "category": "electronics",
+      "region": "East",
+      "sales": 297,
+      "createdAt": "2/27/2021"
+    },
+    {
+      "id": 964,
+      "category": "toys",
+      "region": "North",
+      "sales": 471,
+      "createdAt": "7/5/2021"
+    },
+    {
+      "id": 965,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 29,
+      "createdAt": "12/31/2022"
+    },
+    {
+      "id": 966,
+      "category": "sports equipment",
+      "region": "South",
+      "sales": 287,
+      "createdAt": "11/2/2021"
+    },
+    {
+      "id": 967,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 89,
+      "createdAt": "7/5/2021"
+    },
+    {
+      "id": 968,
+      "category": "home decor",
+      "region": "West",
+      "sales": 110,
+      "createdAt": "5/26/2022"
+    },
+    {
+      "id": 969,
+      "category": "home decor",
+      "region": "East",
+      "sales": 323,
+      "createdAt": "7/9/2022"
+    },
+    {
+      "id": 970,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 230,
+      "createdAt": "2/5/2023"
+    },
+    {
+      "id": 971,
+      "category": "electronics",
+      "region": "West",
+      "sales": 339,
+      "createdAt": "11/5/2022"
+    },
+    {
+      "id": 972,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 442,
+      "createdAt": "10/6/2021"
+    },
+    {
+      "id": 973,
+      "category": "books",
+      "region": "South",
+      "sales": 35,
+      "createdAt": "4/10/2021"
+    },
+    {
+      "id": 974,
+      "category": "electronics",
+      "region": "South",
+      "sales": 345,
+      "createdAt": "12/4/2023"
+    },
+    {
+      "id": 975,
+      "category": "kitchen appliances",
+      "region": "West",
+      "sales": 236,
+      "createdAt": "11/15/2023"
+    },
+    {
+      "id": 976,
+      "category": "home decor",
+      "region": "West",
+      "sales": 174,
+      "createdAt": "8/19/2023"
+    },
+    {
+      "id": 977,
+      "category": "books",
+      "region": "West",
+      "sales": 121,
+      "createdAt": "6/20/2021"
+    },
+    {
+      "id": 978,
+      "category": "clothing",
+      "region": "North",
+      "sales": 450,
+      "createdAt": "11/3/2022"
+    },
+    {
+      "id": 979,
+      "category": "electronics",
+      "region": "East",
+      "sales": 213,
+      "createdAt": "9/27/2022"
+    },
+    {
+      "id": 980,
+      "category": "toys",
+      "region": "South",
+      "sales": 319,
+      "createdAt": "3/1/2022"
+    },
+    {
+      "id": 981,
+      "category": "books",
+      "region": "South",
+      "sales": 323,
+      "createdAt": "8/18/2022"
+    },
+    {
+      "id": 982,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 300,
+      "createdAt": "9/20/2022"
+    },
+    {
+      "id": 983,
+      "category": "clothing",
+      "region": "North",
+      "sales": 83,
+      "createdAt": "8/1/2023"
+    },
+    {
+      "id": 984,
+      "category": "kitchen appliances",
+      "region": "East",
+      "sales": 232,
+      "createdAt": "5/17/2021"
+    },
+    {
+      "id": 985,
+      "category": "home decor",
+      "region": "North",
+      "sales": 308,
+      "createdAt": "9/26/2023"
+    },
+    {
+      "id": 986,
+      "category": "toys",
+      "region": "East",
+      "sales": 17,
+      "createdAt": "11/22/2022"
+    },
+    {
+      "id": 987,
+      "category": "clothing",
+      "region": "South",
+      "sales": 400,
+      "createdAt": "11/30/2022"
+    },
+    {
+      "id": 988,
+      "category": "kitchen appliances",
+      "region": "South",
+      "sales": 13,
+      "createdAt": "2/10/2023"
+    },
+    {
+      "id": 989,
+      "category": "home decor",
+      "region": "West",
+      "sales": 191,
+      "createdAt": "4/8/2022"
+    },
+    {
+      "id": 990,
+      "category": "books",
+      "region": "East",
+      "sales": 444,
+      "createdAt": "3/8/2022"
+    },
+    {
+      "id": 991,
+      "category": "electronics",
+      "region": "East",
+      "sales": 173,
+      "createdAt": "7/27/2023"
+    },
+    {
+      "id": 992,
+      "category": "toys",
+      "region": "West",
+      "sales": 61,
+      "createdAt": "4/2/2021"
+    },
+    {
+      "id": 993,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 62,
+      "createdAt": "3/31/2023"
+    },
+    {
+      "id": 994,
+      "category": "home decor",
+      "region": "South",
+      "sales": 232,
+      "createdAt": "8/12/2022"
+    },
+    {
+      "id": 995,
+      "category": "sports equipment",
+      "region": "East",
+      "sales": 105,
+      "createdAt": "3/15/2024"
+    },
+    {
+      "id": 996,
+      "category": "sports equipment",
+      "region": "North",
+      "sales": 308,
+      "createdAt": "9/15/2022"
+    },
+    {
+      "id": 997,
+      "category": "home decor",
+      "region": "South",
+      "sales": 477,
+      "createdAt": "6/27/2022"
+    },
+    {
+      "id": 998,
+      "category": "clothing",
+      "region": "West",
+      "sales": 118,
+      "createdAt": "3/21/2024"
+    },
+    {
+      "id": 999,
+      "category": "toys",
+      "region": "East",
+      "sales": 471,
+      "createdAt": "1/7/2024"
+    },
+    {
+      "id": 1000,
+      "category": "toys",
+      "region": "East",
+      "sales": 108,
+      "createdAt": "3/20/2021"
+    }
+  ]
+}
